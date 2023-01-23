@@ -1,13 +1,13 @@
 [
   {
-    "version": "1.8.0.0-Alpha",
-    "released": "2023-01-03T23:48:00Z",
+    "version": "1.8.0.0-Alpha-Mod",
+    "released": "2023-01-23T18:00:00Z",
     "permalink": "https://github.com/Papela/Nitrox-Cracked-Mod/releases",
     "patchnotes": [
       "Added custom Discord Activity Embed",
       "Fixed a bug where Windows 7 users would not be able to open the launcher. (There is still an error with save games and inventories)",
       "Eliminated Anti-Pirate detector and code.",
-      "",
+      "-----------------------------------------",
       "Modded by: Papela",
       "Discord: @Papela#8062"
     ]
