@@ -418,6 +418,7 @@
     "GAME_CACHE_UPDATE": "GTAV-Nitro requiere una reconstrucción de la caché del juego. Esto puede tardar hasta un minuto en generarse.",
     "GAME_CACHE_UPDATING": "Actualizando caché, por favor espere...",
     "GAME_CACHE_UPDATE_CACHE": "Actualizar caché",
+    "GAME_CACHE_WAITING_FOR_SINGLE_PLAYER": "A la espera de que la partida cargue...",
     "GAME_CACHE_WAITING_FOR_ONLINE": "A la espera de que online inicie la actualización de caché...",
     "GAME_CACHE": "Caché del juego",
     "HANDLING_ACCELERATION_MULTIPLIER": "Multiplicador de aceleración",
