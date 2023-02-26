@@ -674,6 +674,7 @@
     "REMOTE_KICK_LOST_CONNECTION_PLAYER": "¡Alguien intentó perder la conexión patear {} remotamente!",
     "WARNING": "¡Atención!",
     "BLAMED_FOR_EXPLOSION": "{} culpó a {} por la explosión",
+    "RELOAD_PLYR_ONLINE_STATES": "Recargar estado de los jugadores Online"
     "LANGUAGE_FILTER_DESC": "Establecer un filtro de región correcto para el idioma será de gran ayuda",
     "HANDLING_TAB_ROLLBARS": "Barras antivuelco",
     "ADVERTISE_YIMMENU_DESC": "Anuncia GTAV-Nitro falsificando los nombres de los jugadores con variantes de 'GTAV-Nitro' de distintos colores. No podrás personalizar el nombre con esta opción activada",
