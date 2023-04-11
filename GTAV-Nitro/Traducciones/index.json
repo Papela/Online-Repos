@@ -1,5 +1,5 @@
 {
-    "version": 8,
+    "version": 10,
     "default_lang": "en_US",
     "translations": {
         "es_ES": {
@@ -13,6 +13,10 @@
         "en_LOL": {
             "name": "Lolcat",
             "file": "en_LOL.json"
+        },
+        "pt_BR": {
+            "name": "Portuguese (BR)",
+            "file": "pt_BR.json"
         },
         "zh_CN": {
             "name": "Chinese (CN)",

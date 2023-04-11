@@ -1,2 +1,2 @@
-# YimMenu Translations
+# Traducciones de GTAV-Nitro
 
