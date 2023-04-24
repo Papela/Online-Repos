@@ -1,12 +1,14 @@
 [
   {
     "version": "1.8.0.0-Alpha-Mod",
-    "released": "2023-01-23T18:00:00Z",
+    "released": "2023-03-8T18:00:00Z",
     "permalink": "https://github.com/Papela/Nitrox-Cracked-Mod/releases",
     "patchnotes": [
       "Added custom Discord Activity Embed",
-      "Fixed a bug where Windows 7 users would not be able to open the launcher. (There is still an error with save games and inventories)",
+      "Fixed a bug where Windows 7 users would not be able to open the launcher.",
       "Eliminated Anti-Pirate detector and code.",
+      "Changed game and world save mode.",
+      "Added compatibility with early versions of Subnautica 2.0 (Dec-2022 onwards)",
       "-----------------------------------------",
       "Modded by: Papela",
       "Discord: @Papela#8062"
