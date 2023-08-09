@@ -1,14 +1,29 @@
 [
   {
+    "version": "1.8.0.1-Beta-Mod",
+    "released": "2023-08-8T23:15:00Z",
+    "permalink": "https://github.com/Papela/Nitrox-Cracked-Mod/releases/tag/V1.8.0.1",
+    "patchnotes": [
+      "Fixed custom Discord Activity Embed",
+      "Code updated with the latest commits from the official repository",
+      "Fixed construction bug.",
+      "Tested compatibility with versions of Subnautica 2.0: Dec-2022 & mar.-2023 (71288)",
+      "-----------------------------------------",
+      "Modded by: Papela",
+      "Discord: @papela",
+      "Old Discord: @Papela#8062"
+    ]
+  },
+  {
     "version": "1.8.0.0-Alpha-Mod",
     "released": "2023-03-8T18:00:00Z",
-    "permalink": "https://github.com/Papela/Nitrox-Cracked-Mod/releases",
+    "permalink": "https://github.com/Papela/Nitrox-Cracked-Mod/releases/tag/V1.8.0.0",
     "patchnotes": [
       "Added custom Discord Activity Embed",
       "Fixed a bug where Windows 7 users would not be able to open the launcher.",
       "Eliminated Anti-Pirate detector and code.",
       "Changed game and world save mode.",
-      "Added compatibility with early versions of Subnautica 2.0 (Dec-2022 onwards)",
+      "Added compatibility with versions of Subnautica 2.0 (Dec-2022 onwards)",
       "-----------------------------------------",
       "Modded by: Papela",
       "Discord: @Papela#8062"
