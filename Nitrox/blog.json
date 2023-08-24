@@ -203,8 +203,8 @@
                      "@type":"ImageObject",
                      "inLanguage":"en-US",
                      "@id":"https:\/\/nitroxblog.rux.gg\/#\/schema\/person\/image\/",
-                     "url":"https:\/\/nitroxblog.rux.gg\/wp-content\/uploads\/2021\/05\/hello-96x96.jpg",
-                     "contentUrl":"https:\/\/nitroxblog.rux.gg\/wp-content\/uploads\/2021\/05\/hello-96x96.jpg",
+                     "url":"https://i.ibb.co/7j28tr5/imageonline-co-textimage.jpg",
+                     "contentUrl":"https://i.ibb.co/7j28tr5/imageonline-co-textimage.jpg",
                      "caption":"Shalix"
                   },
                   "description":"Community Manager of the Nitrox Project",
@@ -217,7 +217,7 @@
             ]
          }
       },
-      "jetpack_featured_media_url":"https:\/\/i0.wp.com\/nitroxblog.rux.gg\/wp-content\/uploads\/2022\/11\/hello2.jpg?fit=2560%2C1440&ssl=1",
+      "jetpack_featured_media_url":"https://i.ibb.co/7j28tr5/imageonline-co-textimage.jpg",
       "_links":{
          "self":[
             {
@@ -290,7 +290,7 @@
          ]
       }
    },
-  {
+   {
       "id":442,
       "date":"2022-12-11T19:40:38",
       "date_gmt":"2022-12-11T18:40:38",
