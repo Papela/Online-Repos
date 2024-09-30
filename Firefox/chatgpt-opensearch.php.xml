@@ -4,3 +4,4 @@
     <Description>Buscar en ChatGPT</Description>
     <Url type="text/html" template="https://chatgpt.com/?q={searchTerms}"/>
 </OpenSearchDescription>
+<!--<link rel="search" type="application/opensearchdescription+xml" href="https://papela.github.io/Online-Repos/Firefox/chatgpt-opensearch.php.xml" title="Buscador de ChatGPT">-->
