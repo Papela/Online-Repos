@@ -1,26 +1,26 @@
 [
    {
-      "id":18012,
-      "date":"2024-09-20T16:45:00",
-      "date_gmt":"2024-09-20T16:45:00",
+      "id":18013,
+      "date":"2025-10-02T16:30:00",
+      "date_gmt":"2025-10-02T16:30:00",
       "guid":{
-         "rendered":"https://github.com/Papela/Nitrox-Cracked-Mod/releases/tag/V1.8.0.2"
+         "rendered":"https://github.com/Papela/Nitrox-Cracked-Mod/releases/tag/V1.8.0.3"
       },
-      "modified":"2024-09-20T16:45:00",
-      "modified_gmt":"2024-09-20T16:45:00",
-      "slug":"mod-1.8.0.2",
+      "modified":"2025-10-02T16:30:00",
+      "modified_gmt":"2025-10-02T16:30:00",
+      "slug":"mod-1.8.0.3",
       "status":"publish",
       "type":"post",
-      "link":"https://github.com/Papela/Nitrox-Cracked-Mod/releases/tag/V1.8.0.2/",
+      "link":"https://github.com/Papela/Nitrox-Cracked-Mod/releases/tag/V1.8.0.3/",
       "title":{
-         "rendered":"Subnautica Mod V1.8.0.2 Update!"
+         "rendered":"Subnautica Mod V1.8.0.3 Update!"
       },
       "content":{
-         "rendered":"\n<p>Hola a todos!<\/p>\n\n\n\n<p>La ultiuma version del mod de Papela (Nitrox 1.8.0.2) ya ha salido. A que esperas para descargartelo!<\/p>\n",
+         "rendered":"\n<p>Hola a todos!<\/p>\n\n\n\n<p>La siguiente version del mod desbloqueado de Papela (Nitrox 1.8.0.3) ya ha salido. A que esperas para descargartelo!<\/p>\n",
          "protected":false
       },
       "excerpt":{
-         "rendered":"\n<p>Hola a todos!<\/p>\n\n\n\n<p>La ultiuma version del mod de Papela (Nitrox 1.8.0.2) ya ha salido. A que esperas para descargartelo!<\/p>\n",
+         "rendered":"\n<p>Hola a todos!<\/p>\n\n\n\n<p>La siguiente version del mod desbloqueado de Papela (Nitrox 1.8.0.3) ya ha salido. A que esperas para descargartelo!<\/p>\n",
          "protected":false
       },
       "author":2,
@@ -39,7 +39,647 @@
       "tags":[
          
       ],
-      "yoast_head":"<p>Hola a todos!<\/p>\n\n\n\n<p>La ultiuma version del mod de Papela (Nitrox 1.8.0.2) ya ha salido. A que esperas para descargartelo!<\/p>\n",
+      "yoast_head":"<p>Hola a todos!<\/p>\n\n\n\n<p>La siguiente version del mod desbloqueado de Papela (Nitrox 1.8.0.3) ya ha salido. A que esperas para descargartelo!<\/p>\n",
+      "yoast_head_json":{
+         "title":"Subnautica Mod V1.8.0.3",
+         "robots":{
+            "index":"index",
+            "follow":"follow",
+            "max-snippet":"max-snippet:-1",
+            "max-image-preview":"max-image-preview:large",
+            "max-video-preview":"max-video-preview:-1"
+         },
+         "canonical":"https://github.com/Papela/Nitrox-Cracked-Mod/releases/tag/V1.8.0.3",
+         "og_locale":"es_ES",
+         "og_type":"article",
+         "og_title":"Subnautica Unlocked Mod V1.8.0.3",
+         "og_description":"<p>Hola a todos!<\/p>\n\n\n\n<p>La siguiente version del mod desbloqueado de Papela (Nitrox 1.8.0.3) ya ha salido. A que esperas para descargartelo!<\/p>\n",
+         "og_url":"https://github.com/Papela/Nitrox-Cracked-Mod/releases/tag/V1.8.0.3",
+         "og_site_name":"Nitrox Dev Blog",
+         "article_published_time":"2025-10-02T16:30:00+02:00",
+         "article_modified_time":"2025-10-02T16:30:00+02:00",
+         "og_image":[
+            {
+               "width":1600,
+               "height":900,
+               "url":"https://i.ibb.co/YFZJk7vG/mini-magick20251002-47922-h9oa3l.jpg",
+               "type":"image\/jpeg"
+            }
+         ],
+         "author":"Papela",
+         "twitter_card":"summary_large_image",
+         "twitter_creator":"@https:\/\/twitter.com\/Papela",
+         "twitter_site":"@Papela",
+         "twitter_misc":{
+            "Written by":"Papela",
+            "Est. reading time":"1 minute"
+         },
+         "schema":{
+            "@context":"https:\/\/schema.org",
+            "@graph":[
+               {
+                  "@type":"Article",
+                  "@id":"https:\/\/nitroxblog.rux.gg\/2022\/12\/11\/subnautica-2-0\/#article",
+                  "isPartOf":{
+                     "@id":"https://github.com/Papela/Nitrox-Cracked-Mod/releases/tag/V1.8.0.3"
+                  },
+                  "author":{
+                     "name":"Papela",
+                     "@id":"https://github.com/Papela/Nitrox-Cracked-Mod/releases/tag/V1.8.0.3"
+                  },
+                  "headline":"Subnautica Mod V1.8.0.3",
+                  "datePublished":"2025-10-02T16:30:00",
+                  "dateModified":"2025-10-02T16:30:00",
+                  "mainEntityOfPage":{
+                     "@id":"https://github.com/Papela/Nitrox-Cracked-Mod/releases/tag/V1.8.0.3"
+                  },
+                  "wordCount":50,
+                  "commentCount":5,
+                  "publisher":{
+                     "@id":"https:\/\/nitroxblog.rux.gg\/#organization"
+                  },
+                  "articleSection":[
+                     "Blog"
+                  ],
+                  "inLanguage":"en-US",
+                  "potentialAction":[
+                     {
+                        "@type":"CommentAction",
+                        "name":"Comment",
+                        "target":[
+                           "https:\/\/nitroxblog.rux.gg\/2022\/12\/11\/subnautica-2-0\/#respond"
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "@type":"WebPage",
+                  "@id":"https:\/\/nitroxblog.rux.gg\/2022\/12\/11\/subnautica-2-0\/",
+                  "url":"https:\/\/nitroxblog.rux.gg\/2022\/12\/11\/subnautica-2-0\/",
+                  "name":"Subnautica 2.0 &mdash; Nitrox Dev Blog",
+                  "isPartOf":{
+                     "@id":"https:\/\/nitroxblog.rux.gg\/#website"
+                  },
+                  "datePublished":"2022-12-11T18:40:38+00:00",
+                  "dateModified":"2022-12-11T18:40:41+00:00",
+                  "breadcrumb":{
+                     "@id":"https:\/\/nitroxblog.rux.gg\/2022\/12\/11\/subnautica-2-0\/#breadcrumb"
+                  },
+                  "inLanguage":"en-US",
+                  "potentialAction":[
+                     {
+                        "@type":"ReadAction",
+                        "target":[
+                           "https:\/\/nitroxblog.rux.gg\/2022\/12\/11\/subnautica-2-0\/"
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "@type":"BreadcrumbList",
+                  "@id":"https:\/\/nitroxblog.rux.gg\/2022\/12\/11\/subnautica-2-0\/#breadcrumb",
+                  "itemListElement":[
+                     {
+                        "@type":"ListItem",
+                        "position":1,
+                        "name":"Home",
+                        "item":"https:\/\/nitroxblog.rux.gg\/"
+                     },
+                     {
+                        "@type":"ListItem",
+                        "position":2,
+                        "name":"Subnautica 2.0"
+                     }
+                  ]
+               },
+               {
+                  "@type":"WebSite",
+                  "@id":"https:\/\/nitroxblog.rux.gg\/#website",
+                  "url":"https:\/\/nitroxblog.rux.gg\/",
+                  "name":"Nitrox Dev Blog",
+                  "description":"Updates from Nitrox Dev Team",
+                  "publisher":{
+                     "@id":"https:\/\/nitroxblog.rux.gg\/#organization"
+                  },
+                  "potentialAction":[
+                     {
+                        "@type":"SearchAction",
+                        "target":{
+                           "@type":"EntryPoint",
+                           "urlTemplate":"https:\/\/nitroxblog.rux.gg\/?s={search_term_string}"
+                        },
+                        "query-input":"required name=search_term_string"
+                     }
+                  ],
+                  "inLanguage":"en-US"
+               },
+               {
+                  "@type":"Organization",
+                  "@id":"https:\/\/nitroxblog.rux.gg\/#organization",
+                  "name":"Subnautica Nitrox",
+                  "url":"https:\/\/nitroxblog.rux.gg\/",
+                  "logo":{
+                     "@type":"ImageObject",
+                     "inLanguage":"es-ES",
+                     "@id":"https:\/\/nitroxblog.rux.gg\/#\/schema\/logo\/image\/",
+                     "url":"https://i.ibb.co/YFZJk7vG/mini-magick20251002-47922-h9oa3l.jpg",
+                     "contentUrl":"https://i.ibb.co/YFZJk7vG/mini-magick20251002-47922-h9oa3l.jpg",
+                     "width":1600,
+                     "height":900,
+                     "caption":"Subnautica Nitrox"
+                  },
+                  "image":{
+                     "@id":"https:\/\/nitroxblog.rux.gg\/#\/schema\/logo\/image\/"
+                  },
+                  "sameAs":[
+                     "https:\/\/twitter.com\/ModNitrox"
+                  ]
+               },
+               {
+                  "@type":"Person",
+                  "@id":"https:\/\/nitroxblog.rux.gg\/#\/schema\/person\/2e3e11e3d239815721b127e9a3854f64",
+                  "name":"Shalix",
+                  "image":{
+                     "@type":"ImageObject",
+                     "inLanguage":"en-US",
+                     "@id":"https:\/\/nitroxblog.rux.gg\/#\/schema\/person\/image\/",
+                     "url":"https://i.ibb.co/YFZJk7vG/mini-magick20251002-47922-h9oa3l.jpg",
+                     "contentUrl":"https://i.ibb.co/YFZJk7vG/mini-magick20251002-47922-h9oa3l.jpg",
+                     "caption":"Shalix"
+                  },
+                  "description":"Community Manager of the Nitrox Project",
+                  "sameAs":[
+                     "https:\/\/nitrox.rux.gg\/",
+                     "https:\/\/twitter.com\/https:\/\/twitter.com\/ModNitrox"
+                  ],
+                  "url":"https:\/\/nitroxblog.rux.gg\/author\/shalix\/"
+               }
+            ]
+         }
+      },
+      "jetpack_featured_media_url":"https://i.ibb.co/YFZJk7vG/mini-magick20251002-47922-h9oa3l.jpg",
+      "_links":{
+         "self":[
+            {
+               "href":"https:\/\/nitroxblog.rux.gg\/wp-json\/wp\/v2\/posts\/442"
+            }
+         ],
+         "collection":[
+            {
+               "href":"https:\/\/nitroxblog.rux.gg\/wp-json\/wp\/v2\/posts"
+            }
+         ],
+         "about":[
+            {
+               "href":"https:\/\/nitroxblog.rux.gg\/wp-json\/wp\/v2\/types\/post"
+            }
+         ],
+         "author":[
+            {
+               "embeddable":true,
+               "href":"https:\/\/nitroxblog.rux.gg\/wp-json\/wp\/v2\/users\/2"
+            }
+         ],
+         "replies":[
+            {
+               "embeddable":true,
+               "href":"https:\/\/nitroxblog.rux.gg\/wp-json\/wp\/v2\/comments?post=442"
+            }
+         ],
+         "version-history":[
+            {
+               "count":2,
+               "href":"https:\/\/nitroxblog.rux.gg\/wp-json\/wp\/v2\/posts\/442\/revisions"
+            }
+         ],
+         "predecessor-version":[
+            {
+               "id":444,
+               "href":"https:\/\/nitroxblog.rux.gg\/wp-json\/wp\/v2\/posts\/442\/revisions\/444"
+            }
+         ],
+         "wp:featuredmedia":[
+            {
+               "embeddable":true,
+               "href":"https:\/\/nitroxblog.rux.gg\/wp-json\/wp\/v2\/media\/438"
+            }
+         ],
+         "wp:attachment":[
+            {
+               "href":"https:\/\/nitroxblog.rux.gg\/wp-json\/wp\/v2\/media?parent=442"
+            }
+         ],
+         "wp:term":[
+            {
+               "taxonomy":"category",
+               "embeddable":true,
+               "href":"https:\/\/nitroxblog.rux.gg\/wp-json\/wp\/v2\/categories?post=442"
+            },
+            {
+               "taxonomy":"post_tag",
+               "embeddable":true,
+               "href":"https:\/\/nitroxblog.rux.gg\/wp-json\/wp\/v2\/tags?post=442"
+            }
+         ],
+         "curies":[
+            {
+               "name":"wp",
+               "href":"https:\/\/api.w.org\/{rel}",
+               "templated":true
+            }
+         ]
+      }
+   },
+   {
+    "id": 544,
+    "date": "2025-07-02T16:15:40",
+    "date_gmt": "2025-07-02T15:15:40",
+    "guid": {
+      "rendered": "https://nitroxblog.rux.gg/?p=544"
+    },
+    "modified": "2025-07-16T22:31:17",
+    "modified_gmt": "2025-07-16T21:31:17",
+    "slug": "dev-blog-8-nitrox-1-8",
+    "status": "publish",
+    "type": "post",
+    "link": "https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/",
+    "title": {
+      "rendered": "Dev Blog #8: Nitrox 1.8"
+    },
+    "content": {
+      "rendered": "\n<p>Hello everyone! We hope you all have been doing well, and that you remember to hydrate in the summer heat. Today we have some big news, and we also want to share some of the things you can look forward to with the upcoming Nitrox 1.8 update, so let&#8217;s just dive right in.</p>\n\n\n\n<p>The most asked question everyone has is: When will the next Nitrox update come out?!</p>\n\n\n\n<p>While we do not have an exact date quite yet. We can however say that it will be released in the next few weeks. There is still some bits and pieces left to do, most of it is to make sure that everything works to the degree we feel like is acceptable. This update has been a massive undertaking, and we have been working on this update for around two years now.</p>\n\n\n\n<p>We all work on Nitrox in our free time, when we have the extra energy to do so. Nitrox is an open source project, and will always be an open source project where the focus will be on those involved to take care of themselves. This is part of why the Nitrox project might be progressing a bit slower then what you might be used to from other mods. So we are sorry it took so long.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Subnautica 2.0 &amp; Nitrox</h2>\n\n\n\n<p>As you probably know, Subnautica received a large update, commonly known as &#8220;Subnautica 2.0&#8221;. This update made incompatible with Nitrox. This update included what you most likely thought was the most interesting, the &#8220;Large room&#8221;, &#8220;Glass dome&#8221; and the &#8220;Large room divider wall&#8221;. For the players that would make it possible to make a more creative way to live together in the game and be able to get more space to decorate and put up as many plant walls as the hull could handle.</p>\n\n\n\n<p>For Nitrox however, it was a whole other story. The changes to the engine meant that we essentially had to start from scratch (again). This time however, we were going to do it in a way that would make it much easier to work with in the future. Going over the code, rewriting as well as writing brand new code. While doing so we also created better internal documentation so that we will have a easier time in the future to work with Nitrox. Being able to catch up on a specific subject or function for sure will make it easier to figure things out.</p>\n\n\n\n<p>Tens of thousands of lines of codes were added or removed just to make it all work again. Optimizing the code was of the highest priority, making sure we make Nitrox run as smoothly and efficiently as we could while also adding some new features both for the players and for the developers.</p>\n\n\n\n<p>Now you know a bit about what has been going on with Nitrox, and why this update has been taking as long as it has. So without any further delays, let us talk about the update, and what we have in store for you with Nitrox 1.8.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Sharing is caring</h2>\n\n\n\n<p>There sure is a lot of you who have become deeply invested in Subnautica and the Nitrox project. You come from all walks of life, but also from all kinds of different operating systems, be that MacOS, Linux or Windows PC&#8217;s. Having the ability to play with your friends across the different operating systems is a request a lot of you have had over the years. And we never really had the chance to prioritize that before now with the massive rewrite. With that said, we are happily announcing that Nitrox 1.8 will launch with compatibility with Linux (.NET 9.0), however this is still a in-progress work, and it might have some issues compared to the full compatibility with Windows (10, 11).</p>\n\n\n\n<p>As you probably noticed, MacOS was not included in the list of compatible operating systems. But fear not! We are actively working on it, and it will likely launch with a smaller update after Nitrox 1.8 has been launched.</p>\n\n\n\n<p>Of course, it is great that Nitrox works across different OS systems, but would it not be greater still if we also got it working with the different storefronts? Sure would! So we did that too and made Nitrox work with Epic Games, Steam and the Microsoft Store version of Subnautica. This also comes with the benefit of cross-platform compatibility. Meaning you can be on any of those two operating systems and have bought the game on any of those storefronts and still be able to play with all of your friends.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img data-recalc-dims=\"1\" loading=\"lazy\" decoding=\"async\" width=\"580\" height=\"327\" src=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/LRoom2.jpg?resize=580%2C327&#038;ssl=1\" alt=\"Two male player characters floating inside of the large aquarium from Subnautica. It has two big leafy purple-y pink plants as well as green sea kelp with yellow bulbs and small fish swimming around\" class=\"wp-image-551\" srcset=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/LRoom2.jpg?resize=1160%2C653&amp;ssl=1 1160w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/LRoom2.jpg?resize=800%2C450&amp;ssl=1 800w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/LRoom2.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/LRoom2.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/LRoom2.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/LRoom2.jpg?w=1740&amp;ssl=1 1740w\" sizes=\"auto, (max-width: 580px) 100vw, 580px\" /></figure>\n\n\n\n<h2 class=\"wp-block-heading\">Build&#8217;em up, break&#8217;em down</h2>\n\n\n\n<p>Building in Nitrox has always been a bit finicky. It has very much been a Frankenstein&#8217;s monster of adding more and more glue, tape and stapling it together as a finish. The more updates Subnautica got over the years, the more we had to tape it together. To say that the building system in the currently released Nitrox 1.7 version is a bit impractical would be kind. It relies on things like the rotation of the places building pieces, so that there is technically a &#8220;wrong&#8221; way to place them. This is part of what leads to the red &#8220;ghost&#8221; buildings you might have encountered when loading back into a server.</p>\n\n\n\n<p>To fix this issue, we spent a significant amount of time rebuilding it. Doing this made it possible for us to really dig into it to make it more reliable, robust and adaptive to make it a whole lot easier to work with. What it means for you as a player, is that you no longer have to fear that because you built one piece of your base the &#8220;wrong&#8221; way, that it will leave &#8220;ghosts&#8221; or in the worse case, corrupt your save making you have to start all over again.</p>\n\n\n\n<h2 class=\"wp-block-heading\">The stories that are told</h2>\n\n\n\n<p>As you might have noticed, the way Nitrox handles the story is a bit rough. Syncing the story and making sure it is persistent between the players and the game itself has been a tough task. Fixing the issues it has meant that we had to create a new story sync system. This allowed us to sync up the different pieces of the story between the players so that you can now explore the mysterious water world of planet 4546B &#8211; Together</p>\n\n\n\n<h2 class=\"wp-block-heading\">The living world</h2>\n\n\n\n<p>Exploring a watery planet with a friend and building habitats is of course not everything the planet has to offer. It also has plant-life which you can plant and harvest. But it also has aquatic creatures you can capture and create a delicious meals out of. Nitrox 1.7 and previous version has had a bit of a lack of the dangerous variety. Working on these creatures means that you will now be able to encounter some dangerous creatures. Like the Reaper Leviathan, Ghost Leviathan (except the ones that spawn in the void), Sea Dragons and the maybe not quite so dangerous Sea Treader Leviathans. We focused mainly on syncing their behavior related to the player(s), the Seamoth and the Cyclops. This means that you might need to be a bit more aware of where you travel with your Cyclops and where you park it.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img data-recalc-dims=\"1\" loading=\"lazy\" decoding=\"async\" width=\"580\" height=\"327\" src=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/PrawnSuit2.jpg?resize=580%2C327&#038;ssl=1\" alt=\"Three prawnsuits either parked or abandoned in the foreground, in the background is two player characters floating in the water\" class=\"wp-image-553\" srcset=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/PrawnSuit2.jpg?resize=1160%2C653&amp;ssl=1 1160w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/PrawnSuit2.jpg?resize=800%2C450&amp;ssl=1 800w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/PrawnSuit2.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/PrawnSuit2.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/PrawnSuit2.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/PrawnSuit2.jpg?resize=1980%2C1114&amp;ssl=1 1980w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/PrawnSuit2.jpg?w=1740&amp;ssl=1 1740w\" sizes=\"auto, (max-width: 580px) 100vw, 580px\" /><figcaption class=\"wp-element-caption\">Public parking</figcaption></figure>\n\n\n\n<h2 class=\"wp-block-heading\">Things to look forward to</h2>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Compatibility with the most recent &#8220;Subnautica 2.0&#8221; update</li>\n\n\n\n<li>Windows &amp; Linux compatibility</li>\n\n\n\n<li>Cross-play between Epic Games, Steam &amp; Windows Store</li>\n\n\n\n<li>Controller support</li>\n\n\n\n<li>A much better building system &#8211; Ghost-be-gone</li>\n\n\n\n<li>Leviathan sync</li>\n\n\n\n<li>More animation sync &#8211; footsteps, infection, skybox/clouds, Geyser eruptions, radiation leaks and more</li>\n\n\n\n<li>Added server commands to trigger Sunbeam and Aurora events in the Nitrox chat</li>\n\n\n\n<li>Improvements to the Cyclops submarine (No more yeeting into outer space)</li>\n</ul>\n\n\n\n<p>There is of course, much, much more that has been worked on. But it is a lot more technical that is more suited for a whole Dev Blog post in itself. All the changes will as usual be listed in the patch notes that comes bundled in Nitrox when you download it.</p>\n\n\n\n<p>Don&#8217;t forget, we are on <a href=\"https://bsky.app/profile/nitroxmod.bsky.social\">Bluesky! </a>And with the release of the update we will be more active there and also announce it there. So make sure to follow us there!</p>\n\n\n\n<p>We also have a Discord server, so if you want to hang out with us or have any questions you can head over here: <a href=\"https://discord.gg/E8B4X9s\">Discord</a></p>\n\n\n\n<p>&#8211; The Nitrox Team</p>\n\n\n\n<h2 class=\"wp-block-heading\">A special thanks</h2>\n\n\n\n<p>We would like to take a bit of time to acknowledge the hard work of the developers. Creating something like Nitrox, a multiplayer mod for a game that is not at all made for multiplayer is a daunting task. But our community of developers have time and time again been pitching in whenever they had time they could have been spending with their family, loved ones or just taken time for themselves. I am sure we are all in agreement that we should all thank them for their work. So, thank you so much for your years of donated free time and your particular skill-set. It has been a long journey, and we hope you all are proud of what you have made together.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Hello everyone! We hope you all have been doing well, and that you remember to hydrate in the summer heat. Today we have some big news, and we also want to share some of the things you can look forward to with the upcoming Nitrox 1.8 update, so let&#8217;s just dive right in. The most [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 552,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_jetpack_memberships_contains_paid_content": false,
+      "footnotes": ""
+    },
+    "categories": [
+      8,
+      13,
+      10
+    ],
+    "tags": [
+      24,
+      14,
+      17
+    ],
+    "class_list": [
+      "post-544",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-blog",
+      "category-development",
+      "category-updates",
+      "tag-development",
+      "tag-nitrox",
+      "tag-update"
+    ],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.9 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Dev Blog #8: Nitrox 1.8 &#8212; Nitrox Dev Blog</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Dev Blog #8: Nitrox 1.8 &#8212; Nitrox Dev Blog\" />\n<meta property=\"og:description\" content=\"Hello everyone! We hope you all have been doing well, and that you remember to hydrate in the summer heat. Today we have some big news, and we also want to share some of the things you can look forward to with the upcoming Nitrox 1.8 update, so let&#8217;s just dive right in. The most [&hellip;]\" />\n<meta property=\"og:url\" content=\"https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/\" />\n<meta property=\"og:site_name\" content=\"Nitrox Dev Blog\" />\n<meta property=\"article:published_time\" content=\"2025-07-02T15:15:40+00:00\" />\n<meta property=\"article:modified_time\" content=\"2025-07-16T21:31:17+00:00\" />\n<meta property=\"og:image\" content=\"https://nitroxblog.rux.gg/wp-content/uploads/2025/07/LRoom5.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1920\" />\n\t<meta property=\"og:image:height\" content=\"1080\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"Shalix\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@https://twitter.com/ModNitrox\" />\n<meta name=\"twitter:site\" content=\"@ModNitrox\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"Shalix\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"8 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/#article\",\"isPartOf\":{\"@id\":\"https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/\"},\"author\":{\"name\":\"Shalix\",\"@id\":\"https://nitroxblog.rux.gg/#/schema/person/2e3e11e3d239815721b127e9a3854f64\"},\"headline\":\"Dev Blog #8: Nitrox 1.8\",\"datePublished\":\"2025-07-02T15:15:40+00:00\",\"dateModified\":\"2025-07-16T21:31:17+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/\"},\"wordCount\":1520,\"commentCount\":41,\"publisher\":{\"@id\":\"https://nitroxblog.rux.gg/#organization\"},\"image\":{\"@id\":\"https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/#primaryimage\"},\"thumbnailUrl\":\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/LRoom5.jpg?fit=1920%2C1080&ssl=1\",\"keywords\":[\"Development\",\"Nitrox\",\"Update\"],\"articleSection\":[\"Blog\",\"Development\",\"Updates\"],\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"CommentAction\",\"name\":\"Comment\",\"target\":[\"https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/#respond\"]}]},{\"@type\":\"WebPage\",\"@id\":\"https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/\",\"url\":\"https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/\",\"name\":\"Dev Blog #8: Nitrox 1.8 &#8212; Nitrox Dev Blog\",\"isPartOf\":{\"@id\":\"https://nitroxblog.rux.gg/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/#primaryimage\"},\"image\":{\"@id\":\"https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/#primaryimage\"},\"thumbnailUrl\":\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/LRoom5.jpg?fit=1920%2C1080&ssl=1\",\"datePublished\":\"2025-07-02T15:15:40+00:00\",\"dateModified\":\"2025-07-16T21:31:17+00:00\",\"breadcrumb\":{\"@id\":\"https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/#primaryimage\",\"url\":\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/LRoom5.jpg?fit=1920%2C1080&ssl=1\",\"contentUrl\":\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/LRoom5.jpg?fit=1920%2C1080&ssl=1\",\"width\":1920,\"height\":1080,\"caption\":\"Everyone needs to take some time off to KEEP CALM sometimes\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://nitroxblog.rux.gg/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Dev Blog #8: Nitrox 1.8\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://nitroxblog.rux.gg/#website\",\"url\":\"https://nitroxblog.rux.gg/\",\"name\":\"Nitrox Dev Blog\",\"description\":\"Updates from Nitrox Dev Team\",\"publisher\":{\"@id\":\"https://nitroxblog.rux.gg/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://nitroxblog.rux.gg/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://nitroxblog.rux.gg/#organization\",\"name\":\"Subnautica Nitrox\",\"url\":\"https://nitroxblog.rux.gg/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://nitroxblog.rux.gg/#/schema/logo/image/\",\"url\":\"https://i1.wp.com/nitroxblog.rux.gg/wp-content/uploads/2020/04/icon.png?fit=800%2C800&ssl=1\",\"contentUrl\":\"https://i1.wp.com/nitroxblog.rux.gg/wp-content/uploads/2020/04/icon.png?fit=800%2C800&ssl=1\",\"width\":800,\"height\":800,\"caption\":\"Subnautica Nitrox\"},\"image\":{\"@id\":\"https://nitroxblog.rux.gg/#/schema/logo/image/\"},\"sameAs\":[\"https://x.com/ModNitrox\"]},{\"@type\":\"Person\",\"@id\":\"https://nitroxblog.rux.gg/#/schema/person/2e3e11e3d239815721b127e9a3854f64\",\"name\":\"Shalix\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://nitroxblog.rux.gg/#/schema/person/image/\",\"url\":\"https://nitroxblog.rux.gg/wp-content/uploads/2025/07/cropped-Shalix-icon-600x6000-1-e1751376789197-96x96.png\",\"contentUrl\":\"https://nitroxblog.rux.gg/wp-content/uploads/2025/07/cropped-Shalix-icon-600x6000-1-e1751376789197-96x96.png\",\"caption\":\"Shalix\"},\"description\":\"Community Manager of the Nitrox Project\",\"sameAs\":[\"https://nitrox.rux.gg/\",\"https://x.com/https://twitter.com/ModNitrox\"],\"url\":\"https://nitroxblog.rux.gg/author/shalix/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Dev Blog #8: Nitrox 1.8 &#8212; Nitrox Dev Blog",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Dev Blog #8: Nitrox 1.8 &#8212; Nitrox Dev Blog",
+      "og_description": "Hello everyone! We hope you all have been doing well, and that you remember to hydrate in the summer heat. Today we have some big news, and we also want to share some of the things you can look forward to with the upcoming Nitrox 1.8 update, so let&#8217;s just dive right in. The most [&hellip;]",
+      "og_url": "https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/",
+      "og_site_name": "Nitrox Dev Blog",
+      "article_published_time": "2025-07-02T15:15:40+00:00",
+      "article_modified_time": "2025-07-16T21:31:17+00:00",
+      "og_image": [
+        {
+          "width": 1920,
+          "height": 1080,
+          "url": "https://nitroxblog.rux.gg/wp-content/uploads/2025/07/LRoom5.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "author": "Shalix",
+      "twitter_card": "summary_large_image",
+      "twitter_creator": "@https://twitter.com/ModNitrox",
+      "twitter_site": "@ModNitrox",
+      "twitter_misc": {
+        "Written by": "Shalix",
+        "Est. reading time": "8 minutes"
+      },
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/#article",
+            "isPartOf": {
+              "@id": "https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/"
+            },
+            "author": {
+              "name": "Shalix",
+              "@id": "https://nitroxblog.rux.gg/#/schema/person/2e3e11e3d239815721b127e9a3854f64"
+            },
+            "headline": "Dev Blog #8: Nitrox 1.8",
+            "datePublished": "2025-07-02T15:15:40+00:00",
+            "dateModified": "2025-07-16T21:31:17+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/"
+            },
+            "wordCount": 1520,
+            "commentCount": 41,
+            "publisher": {
+              "@id": "https://nitroxblog.rux.gg/#organization"
+            },
+            "image": {
+              "@id": "https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/#primaryimage"
+            },
+            "thumbnailUrl": "https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/LRoom5.jpg?fit=1920%2C1080&ssl=1",
+            "keywords": [
+              "Development",
+              "Nitrox",
+              "Update"
+            ],
+            "articleSection": [
+              "Blog",
+              "Development",
+              "Updates"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/",
+            "url": "https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/",
+            "name": "Dev Blog #8: Nitrox 1.8 &#8212; Nitrox Dev Blog",
+            "isPartOf": {
+              "@id": "https://nitroxblog.rux.gg/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/#primaryimage"
+            },
+            "image": {
+              "@id": "https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/#primaryimage"
+            },
+            "thumbnailUrl": "https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/LRoom5.jpg?fit=1920%2C1080&ssl=1",
+            "datePublished": "2025-07-02T15:15:40+00:00",
+            "dateModified": "2025-07-16T21:31:17+00:00",
+            "breadcrumb": {
+              "@id": "https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/#primaryimage",
+            "url": "https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/LRoom5.jpg?fit=1920%2C1080&ssl=1",
+            "contentUrl": "https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/LRoom5.jpg?fit=1920%2C1080&ssl=1",
+            "width": 1920,
+            "height": 1080,
+            "caption": "Everyone needs to take some time off to KEEP CALM sometimes"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://nitroxblog.rux.gg/2025/07/02/dev-blog-8-nitrox-1-8/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://nitroxblog.rux.gg/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Dev Blog #8: Nitrox 1.8"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://nitroxblog.rux.gg/#website",
+            "url": "https://nitroxblog.rux.gg/",
+            "name": "Nitrox Dev Blog",
+            "description": "Updates from Nitrox Dev Team",
+            "publisher": {
+              "@id": "https://nitroxblog.rux.gg/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://nitroxblog.rux.gg/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://nitroxblog.rux.gg/#organization",
+            "name": "Subnautica Nitrox",
+            "url": "https://nitroxblog.rux.gg/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://nitroxblog.rux.gg/#/schema/logo/image/",
+              "url": "https://i1.wp.com/nitroxblog.rux.gg/wp-content/uploads/2020/04/icon.png?fit=800%2C800&ssl=1",
+              "contentUrl": "https://i1.wp.com/nitroxblog.rux.gg/wp-content/uploads/2020/04/icon.png?fit=800%2C800&ssl=1",
+              "width": 800,
+              "height": 800,
+              "caption": "Subnautica Nitrox"
+            },
+            "image": {
+              "@id": "https://nitroxblog.rux.gg/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://x.com/ModNitrox"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://nitroxblog.rux.gg/#/schema/person/2e3e11e3d239815721b127e9a3854f64",
+            "name": "Shalix",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://nitroxblog.rux.gg/#/schema/person/image/",
+              "url": "https://nitroxblog.rux.gg/wp-content/uploads/2025/07/cropped-Shalix-icon-600x6000-1-e1751376789197-96x96.png",
+              "contentUrl": "https://nitroxblog.rux.gg/wp-content/uploads/2025/07/cropped-Shalix-icon-600x6000-1-e1751376789197-96x96.png",
+              "caption": "Shalix"
+            },
+            "description": "Community Manager of the Nitrox Project",
+            "sameAs": [
+              "https://nitrox.rux.gg/",
+              "https://x.com/https://twitter.com/ModNitrox"
+            ],
+            "url": "https://nitroxblog.rux.gg/author/shalix/"
+          }
+        ]
+      }
+    },
+    "jetpack_featured_media_url": "https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2025/07/LRoom5.jpg?fit=1920%2C1080&ssl=1",
+    "jetpack_sharing_enabled": true,
+    "_links": {
+      "self": [
+        {
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/posts/544",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/comments?post=544"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 16,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/posts/544/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 570,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/posts/544/revisions/570"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/media/552"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/media?parent=544"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/categories?post=544"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/tags?post=544"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+   {
+      "id":18012,
+      "date":"2024-09-20T16:45:00",
+      "date_gmt":"2024-09-20T16:45:00",
+      "guid":{
+         "rendered":"https://github.com/Papela/Nitrox-Cracked-Mod/releases/tag/V1.8.0.2"
+      },
+      "modified":"2024-09-20T16:45:00",
+      "modified_gmt":"2024-09-20T16:45:00",
+      "slug":"mod-1.8.0.2",
+      "status":"publish",
+      "type":"post",
+      "link":"https://github.com/Papela/Nitrox-Cracked-Mod/releases/tag/V1.8.0.2/",
+      "title":{
+         "rendered":"Subnautica Mod V1.8.0.2 Update!"
+      },
+      "content":{
+         "rendered":"\n<p>Hola a todos!<\/p>\n\n\n\n<p>La ultima version del mod de Papela (Nitrox 1.8.0.2) ya ha salido. A que esperas para descargartelo!<\/p>\n",
+         "protected":false
+      },
+      "excerpt":{
+         "rendered":"\n<p>Hola a todos!<\/p>\n\n\n\n<p>La ultima version del mod de Papela (Nitrox 1.8.0.2) ya ha salido. A que esperas para descargartelo!<\/p>\n",
+         "protected":false
+      },
+      "author":2,
+      "featured_media":438,
+      "comment_status":"open",
+      "ping_status":"open",
+      "sticky":false,
+      "template":"",
+      "format":"standard",
+      "meta":[
+         
+      ],
+      "categories":[
+         8
+      ],
+      "tags":[
+         
+      ],
+      "yoast_head":"<p>Hola a todos!<\/p>\n\n\n\n<p>La ultima version del mod de Papela (Nitrox 1.8.0.2) ya ha salido. A que esperas para descargartelo!<\/p>\n",
       "yoast_head_json":{
          "title":"Subnautica Mod V1.8.0.2",
          "robots":{
@@ -53,7 +693,7 @@
          "og_locale":"es_ES",
          "og_type":"article",
          "og_title":"Subnautica Mod V1.8.0.1",
-         "og_description":"<p>Hola a todos!<\/p>\n\n\n\n<p>La ultiuma version del mod de Papela (Nitrox 1.8.0.2) ya ha salido. A que esperas para descargartelo!<\/p>\n",
+         "og_description":"<p>Hola a todos!<\/p>\n\n\n\n<p>La ultima version del mod de Papela (Nitrox 1.8.0.2) ya ha salido. A que esperas para descargartelo!<\/p>\n",
          "og_url":"https://github.com/Papela/Nitrox-Cracked-Mod/releases/tag/V1.8.0.2",
          "og_site_name":"Nitrox Dev Blog",
          "article_published_time":"2024-09-20T16:45:00+02:00",
@@ -289,7 +929,1027 @@
             }
          ]
       }
-   }, 
+   },
+   {
+    "id": 510,
+    "date": "2024-05-18T00:47:04",
+    "date_gmt": "2024-05-17T23:47:04",
+    "guid": {
+      "rendered": "https://nitroxblog.rux.gg/?p=510"
+    },
+    "modified": "2024-05-18T12:01:27",
+    "modified_gmt": "2024-05-18T11:01:27",
+    "slug": "nitrox-2024-qa",
+    "status": "publish",
+    "type": "post",
+    "link": "https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/",
+    "title": {
+      "rendered": "Nitrox 2024 Q&amp;A"
+    },
+    "content": {
+      "rendered": "\n<p>Hello everyone! A while back we opened up a Q&amp;A channel on our Discord server, there you asked a bunch of questions, and today we are answering them. Keep in mind, that some of the questions have been slightly rewritten to reflect how we understood what was being asked.</p>\n\n\n\n<p>Here we go!</p>\n\n\n\n<figure class=\"wp-block-image alignwide\"><img data-recalc-dims=\"1\" loading=\"lazy\" decoding=\"async\" width=\"580\" height=\"326\" src=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/stretchy.jpg?resize=580%2C326&#038;ssl=1\" alt=\"A screenshot from the game Subnautica, where a player character model is bugged and goes super stretchy across the screen\" class=\"wp-image-521\" srcset=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/stretchy.jpg?w=1919&amp;ssl=1 1919w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/stretchy.jpg?resize=800%2C450&amp;ssl=1 800w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/stretchy.jpg?resize=1160%2C652&amp;ssl=1 1160w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/stretchy.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/stretchy.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/stretchy.jpg?w=1740&amp;ssl=1 1740w\" sizes=\"auto, (max-width: 580px) 100vw, 580px\" /></figure>\n\n\n\n<p><br><strong>Q</strong> = <strong>Question</strong><br><strong>A</strong> = <strong>Answer</strong></p>\n\n\n\n<p><strong>From: A Fellow Homosapien</strong><br><strong>Q: Who are the &#8220;generous contributors&#8221;, is there just a billionaire sponsoring y&#8217;all or?</strong><br><br><strong>A</strong>: Hah, now that would have been pretty neat. Yeah no, we do not have any rich donors or anything. When it comes to paying for our website and domain it is entirely from our own pockets (as mentioned, none of us are billionaires).</p>\n\n\n\n<p><strong>From: Yrwwen</strong><br><strong>Q: What is the current feature you are working on, and what is the most difficult one. Is it compatibility with the newer version of Subnautica or more like issues with syncing things and bugs in general?</strong><br><br><strong>A</strong>: <strong>Tornac</strong>: &#8220;I&#8217;m currently working on improving the water park (aquarium) experience. From having its contents synced exactly, to syncing fish mating, egg hatching, and fish movements in the water park, there are some shenanigans to be introduced and fixed. The most difficult stuff might be syncing systems that were exclusively and deeply rooted in single-player, just as Leviathan syncing (also bases, cyclops movements). [signed Tornac ur favourite dev]&#8221;<br><br><strong>Jannify aka. Don Huan-Huanify</strong>:<br>While there surely are features/bugs which take more time than others, the most difficult thing is for sure that we can&#8217;t test the mod inside the UnityEditor (the program in which Subnautica was made). That means that testing the smallest thing requires 2 game starts, connecting to the server one after another and recreating the thing we wanted to test. So while UWE could do that in like 10-20 seconds we need 2-3 minutes. And depending on the feature/bug you need to do this A LOT&#8230;.</p>\n\n\n\n<figure class=\"wp-block-embed alignwide is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe loading=\"lazy\" title=\"Nitrox Leviathan Sync issue\" width=\"580\" height=\"326\" src=\"https://www.youtube.com/embed/v_TdLRKcra4?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n</div></figure>\n\n\n\n<p><strong>From: Leto</strong><br><strong>Q: In the future, will Nitrox support Mods?</strong><br><br><strong>A</strong>: Nitrox itself currently provides no documented ways for mods to interact and exist within the Nitrox environment, however, mods can be used in the Nitrox environment assuming they follow a couple of rules.</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Modded items cannot perform tasks Nitrox does not know about.</li>\n</ul>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Modded Items are not randomly spawned in the world.</li>\n</ul>\n\n\n\n<p>Things such as Modded Upgrade Modules, Crafted Items, Minimap, UI changes, and <em><strong>maybe</strong></em> mods that add more constructible base pieces depending on what they do.<br><br>But once we have a Nitrox in a 100% playable state we want to add an extra API modders can use to implement all the mentioned problematic features.</p>\n\n\n\n<p><strong>From: Chopper &amp; Twilight</strong><br><strong>Q: Will Nitrox support VR mods and hand tracking?</strong><br><br><strong>A</strong>: We can&#8217;t speak for any VR mod out there, but we are not doing anything in particular to support VR mods more than any other mod.</p>\n\n\n\n<p><strong>From: SilentZK</strong><br><strong>Q: What part of developing the mod is the most fun for you?</strong><br><br><strong>A</strong>: The most fun tasks are syncing gameplay features (e.g. stasis rifle, Leviathan sync etc) compared to lots of &#8220;hidden&#8221; tasks on which the project heavily relies but isn&#8217;t visible (e.g. server infrastructure, persistence and data handling).</p>\n\n\n\n<figure class=\"wp-block-image alignwide size-large\"><img data-recalc-dims=\"1\" loading=\"lazy\" decoding=\"async\" width=\"580\" height=\"321\" src=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/Big-room.jpg?resize=580%2C321&#038;ssl=1\" alt=\"A screenshot from Subnautica, showing off the new buildable big room with a huge aquarium with various alien aquatic creatures and plants.\" class=\"wp-image-523\" srcset=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/Big-room.jpg?resize=1160%2C641&amp;ssl=1 1160w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/Big-room.jpg?resize=800%2C442&amp;ssl=1 800w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/Big-room.jpg?resize=1536%2C849&amp;ssl=1 1536w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/Big-room.jpg?resize=1200%2C663&amp;ssl=1 1200w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/Big-room.jpg?w=1906&amp;ssl=1 1906w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/Big-room.jpg?w=1740&amp;ssl=1 1740w\" sizes=\"auto, (max-width: 580px) 100vw, 580px\" /></figure>\n\n\n\n<p><strong>From: Vazarin<br>Q: Who and what is Moonrunner?</strong><br><br><strong>A</strong>: Moonrunnner, a demon of the ancient world. This foe is beyond any of you… Swim!</p>\n\n\n\n<p><strong>From: Wandary.<br>Q: What inspired the development team to start working on Nitrox? Why does it exist, what inspired it and how did it start?</strong><br><br><strong>A</strong>: <strong>Jannify aka. Don Huan-Huanify</strong>: I got into contact with Nitrox from a content creator who presented an early, early, early stage of the mod (as it had only around 3 developers). Since I really liked Subnautica and wanted to improve my Unity skills (I was developing my own game around this time) I saw my opportunity. And well, since that faithful day nearly 7 years ago I never felt the urge to leave. Regarding the general why question: I think many wanted to experience the terror of the ocean with their friends. It only needed someone to start this tedious journey.<br><br><strong>Tornac</strong>: I wanted to play with my brother a good experience in Subnautica and discover the game together</p>\n\n\n\n<p><strong>From: Rapto<br>Q: Will there be optimization choices? I admit I may not completely know how exactly Nitrox works, and from what I understand loading a world and caching the entities can relatively optimize it or is it more of a network thing?</strong><br><br><strong>A</strong>: The mentioned caching is only moving calculations from in-game (when moving into new chunks) before the server fully starts. General optimization is happening all the time. especially when we rewrite parts of the code or find slow parts (like the reduction of paket size from 1kb from the last update).</p>\n\n\n\n<p><strong>From: H.E.C.U Grunt<br>Q: Vehicle fixes, is there going to be an update fixing the sync of vehicles? </strong><br><br><strong>A</strong>: Of course there will be an update fixing this. Cyclops is currently the largest issue due to how the game has its Player controller programmed. It is a joint issue with Players being launched in the Cyclops. It is difficult to find, even more difficult to make a reliable fix that doesn&#8217;t impact the user experience.</p>\n\n\n\n<p><strong>From: AllyPallyUK<br>Q: Why do you guys not accept donations?</strong><br><br><strong>A</strong>: Adding donations into a project like this with so many moving parts and members so late could potentially split the team(s), how would it be split fairly? Purely to the development team? What about the original creator of the mod Sunrunner? What about the support staff that runs the website, dev blog and Discord server?</p>\n\n\n\n<p>It is not easy to do this fairly. But what we all can agree on, is that instead of fighting over who gets how many % of the pie, we can instead refer people to donate to Doctors Without Borders (Médecins Sans Frontières). They go out in the world and try to do their best to save people and improve lives. If we get even a single donation by referring people over to them instead of throwing money at some mod for a game on the internet, then it was worth it.<br><br>&#8211; If you want to support them, you can check out their website here<br>https://www.msf.org/<br>Or if you want to directly go donate you can head here<br>https://www.msf.org/donate</p>\n\n\n\n<figure class=\"wp-block-image size-full\"><img data-recalc-dims=\"1\" loading=\"lazy\" decoding=\"async\" width=\"580\" height=\"322\" src=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/MSF.png?resize=580%2C322&#038;ssl=1\" alt=\"\" class=\"wp-image-524\" srcset=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/MSF.png?w=905&amp;ssl=1 905w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/MSF.png?resize=800%2C445&amp;ssl=1 800w\" sizes=\"auto, (max-width: 580px) 100vw, 580px\" /></figure>\n\n\n\n<p><strong>Another question from Vazarin<br>Q: What are the Dev and Staff teams most excited about for the next update?</strong></p>\n\n\n\n<p><strong>A</strong>: It&#8217;s always cool to know people are finally able to play what we&#8217;ve spent hours building on our side. We&#8217;ll be shipping an entire rework for most systems and we really want to know how foolproof they are. The building system has always been unstable due to its early implementation in the early stages of the game and due to its absurd complexity. It should now be more reliable than ever and we&#8217;ll be glad to see such an important part of the game stable for you all to enjoy. We&#8217;ve also had the pleasure to include some exciting new features. We plan to release the beginning of a new sync system for creatures starting with leviathans. In the next update, you&#8217;ll be able to dive with your friends and cooperate under the frightening threat of the biggest sea monsters out there.</p>\n\n\n\n<figure class=\"wp-block-image alignwide size-large\"><img data-recalc-dims=\"1\" loading=\"lazy\" decoding=\"async\" width=\"580\" height=\"327\" src=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/wtfseamoth.jpg?resize=580%2C327&#038;ssl=1\" alt=\"A screenshot from the game Subnautica, with multiple bugged characters stuck in the &quot;floor&quot; of the lifeboat, and a miniature Seamoth (1-man Submarine) with a player in it also being inside of the lifeboat\" class=\"wp-image-525\" srcset=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/wtfseamoth.jpg?resize=1160%2C653&amp;ssl=1 1160w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/wtfseamoth.jpg?resize=800%2C450&amp;ssl=1 800w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/wtfseamoth.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/wtfseamoth.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/wtfseamoth.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/wtfseamoth.jpg?resize=1980%2C1114&amp;ssl=1 1980w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/wtfseamoth.jpg?w=1740&amp;ssl=1 1740w\" sizes=\"auto, (max-width: 580px) 100vw, 580px\" /></figure>\n\n\n\n<p><strong>From: Jan_ito007<br>Q: Have you thought of making a way to, for example, link a prawn to a Cyclops and have a way to watch what the prawn sees through the Cyclops cams? Like someone stays in the Cyclops while their partner is mining stuff out and they can see what they do.</strong><br><br><strong>A</strong>: Building Nitrox, we&#8217;ve only ever been focused on syncing Subnautica features to ensure you have a stable experience at first. But quite recently we did introduce a Nitrox-exclusive feature: the player list. This is only a hint of some exclusive cooperative-driven features we&#8217;d love to improve your gaming experience with.</p>\n\n\n\n<p><strong>From: Xzayr &amp; Gojo-Fan-4141<br>Q: Will there be Linux support? A lot of people are asking for the Nitrox Mod to support Linux/MacOS, what about an installer for Bottles/Lutris?</strong><br><br><strong>A</strong>: Yes! Next update we can offer a Nitrox Launcher that works on Windows and Linux. Mac support is likely to come at a later date, as with the Linux update we should be able to start testing it on MacOS too. No estimates for when MacOS might be playable.</p>\n\n\n\n<p><strong>From: Pebling<br>Q: After you are done with Nitrox, will you start working on Subnautica Below Zero?</strong><br><br><strong>A</strong>: Working on Below Zero is something that we talk about from time to time. But we have not made any decisions about it. If we do work on it, we will be using Nitrox as the base. It will likely take years to make it fully complete.</p>\n\n\n\n<p><strong>Another question from Pebling<br>Q: Will the Nitrox Launcher update by itself?</strong><br><br><strong>A</strong>: The launcher won&#8217;t update automatically. The updates we release need to go through manual testing which is time-intensive and something we don&#8217;t want to do for every change we make. But if we find ways to automate testing, we&#8217;ll consider. Keep in mind, that the launcher will notify you that there is an update available!</p>\n\n\n\n<p><strong>Our last question is from Alemenha.<br>Q: What will the team do after Subnautica/Nitrox? Will you work on Subnautica Below Zero? Or maybe try to add multiplayer into a completely different game?</strong><br><br><strong>A</strong>:<strong> HeN&#8217;s thoughts on this</strong>: Ahah, there is an after Nitrox? There is always more to be synced or a bug to be fixed&#8230; Being serious though, yes it would be great to get it working on Below Zero but first, we want to get it working perfectly on Subnautica itself. And beyond that who knows, maybe UWE will make a third game in the series and we work on that as well.<br><br><strong>Jannify aka. Don Huan-Huanify</strong>: I don&#8217;t know if Nitrox (and Nitrox BZ) will ever be completed in my time with Nitrox, but if I am still around I would love to implement more multiplayer-related features (like the multiplayer bench or shared intro cinematic) and a complete new co-op-story expansion.</p>\n\n\n\n<figure class=\"wp-block-embed alignwide is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe loading=\"lazy\" title=\"New Lifepod improvement!\" width=\"580\" height=\"326\" src=\"https://www.youtube.com/embed/yyIc065UuOc?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n</div><figcaption class=\"wp-element-caption\">A video showcasing the intro cinematic where the player(s) are now escaping the Aurora in the lifepod with two seats, before the crash and knock the player(s) out</figcaption></figure>\n\n\n\n<p>We hope this gives everyone a bit of insight into what is going on behind and in front of the mod. There is more to it than you&#8217;d think.</p>\n\n\n\n<p>Don&#8217;t forget that we are on <a href=\"https://bsky.app/profile/nitroxmod.bsky.social\">BlueSky</a>! So if you want to stay up to date there on when we post blogs, releases and other announcements make sure to follow us at <a href=\"https://bsky.app/profile/nitroxmod.bsky.social\">https://bsky.app/profile/nitroxmod.bsky.social</a></p>\n\n\n\n<p>&#8211; The Nitrox Team</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Hello everyone! A while back we opened up a Q&amp;A channel on our Discord server, there you asked a bunch of questions, and today we are answering them. Keep in mind, that some of the questions have been slightly rewritten to reflect how we understood what was being asked. Here we go! Q = QuestionA [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 522,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_jetpack_memberships_contains_paid_content": false,
+      "footnotes": ""
+    },
+    "categories": [
+      8,
+      13
+    ],
+    "tags": [
+      24,
+      14,
+      52
+    ],
+    "class_list": [
+      "post-510",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-blog",
+      "category-development",
+      "tag-development",
+      "tag-nitrox",
+      "tag-qa"
+    ],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.9 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Nitrox 2024 Q&amp;A &#8212; Nitrox Dev Blog</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Nitrox 2024 Q&amp;A &#8212; Nitrox Dev Blog\" />\n<meta property=\"og:description\" content=\"Hello everyone! A while back we opened up a Q&amp;A channel on our Discord server, there you asked a bunch of questions, and today we are answering them. Keep in mind, that some of the questions have been slightly rewritten to reflect how we understood what was being asked. Here we go! Q = QuestionA [&hellip;]\" />\n<meta property=\"og:url\" content=\"https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/\" />\n<meta property=\"og:site_name\" content=\"Nitrox Dev Blog\" />\n<meta property=\"article:published_time\" content=\"2024-05-17T23:47:04+00:00\" />\n<meta property=\"article:modified_time\" content=\"2024-05-18T11:01:27+00:00\" />\n<meta property=\"og:image\" content=\"https://nitroxblog.rux.gg/wp-content/uploads/2024/05/Big-Aquarium.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1920\" />\n\t<meta property=\"og:image:height\" content=\"1080\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"Shalix\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@https://twitter.com/ModNitrox\" />\n<meta name=\"twitter:site\" content=\"@ModNitrox\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"Shalix\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"9 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/#article\",\"isPartOf\":{\"@id\":\"https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/\"},\"author\":{\"name\":\"Shalix\",\"@id\":\"https://nitroxblog.rux.gg/#/schema/person/2e3e11e3d239815721b127e9a3854f64\"},\"headline\":\"Nitrox 2024 Q&amp;A\",\"datePublished\":\"2024-05-17T23:47:04+00:00\",\"dateModified\":\"2024-05-18T11:01:27+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/\"},\"wordCount\":1826,\"commentCount\":16,\"publisher\":{\"@id\":\"https://nitroxblog.rux.gg/#organization\"},\"image\":{\"@id\":\"https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/#primaryimage\"},\"thumbnailUrl\":\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/Big-Aquarium.jpg?fit=1920%2C1080&ssl=1\",\"keywords\":[\"Development\",\"Nitrox\",\"Q&amp;A\"],\"articleSection\":[\"Blog\",\"Development\"],\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"CommentAction\",\"name\":\"Comment\",\"target\":[\"https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/#respond\"]}]},{\"@type\":\"WebPage\",\"@id\":\"https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/\",\"url\":\"https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/\",\"name\":\"Nitrox 2024 Q&amp;A &#8212; Nitrox Dev Blog\",\"isPartOf\":{\"@id\":\"https://nitroxblog.rux.gg/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/#primaryimage\"},\"image\":{\"@id\":\"https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/#primaryimage\"},\"thumbnailUrl\":\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/Big-Aquarium.jpg?fit=1920%2C1080&ssl=1\",\"datePublished\":\"2024-05-17T23:47:04+00:00\",\"dateModified\":\"2024-05-18T11:01:27+00:00\",\"breadcrumb\":{\"@id\":\"https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/#primaryimage\",\"url\":\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/Big-Aquarium.jpg?fit=1920%2C1080&ssl=1\",\"contentUrl\":\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/Big-Aquarium.jpg?fit=1920%2C1080&ssl=1\",\"width\":1920,\"height\":1080,\"caption\":\"Shady looking\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://nitroxblog.rux.gg/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Nitrox 2024 Q&amp;A\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://nitroxblog.rux.gg/#website\",\"url\":\"https://nitroxblog.rux.gg/\",\"name\":\"Nitrox Dev Blog\",\"description\":\"Updates from Nitrox Dev Team\",\"publisher\":{\"@id\":\"https://nitroxblog.rux.gg/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://nitroxblog.rux.gg/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://nitroxblog.rux.gg/#organization\",\"name\":\"Subnautica Nitrox\",\"url\":\"https://nitroxblog.rux.gg/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://nitroxblog.rux.gg/#/schema/logo/image/\",\"url\":\"https://i1.wp.com/nitroxblog.rux.gg/wp-content/uploads/2020/04/icon.png?fit=800%2C800&ssl=1\",\"contentUrl\":\"https://i1.wp.com/nitroxblog.rux.gg/wp-content/uploads/2020/04/icon.png?fit=800%2C800&ssl=1\",\"width\":800,\"height\":800,\"caption\":\"Subnautica Nitrox\"},\"image\":{\"@id\":\"https://nitroxblog.rux.gg/#/schema/logo/image/\"},\"sameAs\":[\"https://x.com/ModNitrox\"]},{\"@type\":\"Person\",\"@id\":\"https://nitroxblog.rux.gg/#/schema/person/2e3e11e3d239815721b127e9a3854f64\",\"name\":\"Shalix\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://nitroxblog.rux.gg/#/schema/person/image/\",\"url\":\"https://nitroxblog.rux.gg/wp-content/uploads/2025/07/cropped-Shalix-icon-600x6000-1-e1751376789197-96x96.png\",\"contentUrl\":\"https://nitroxblog.rux.gg/wp-content/uploads/2025/07/cropped-Shalix-icon-600x6000-1-e1751376789197-96x96.png\",\"caption\":\"Shalix\"},\"description\":\"Community Manager of the Nitrox Project\",\"sameAs\":[\"https://nitrox.rux.gg/\",\"https://x.com/https://twitter.com/ModNitrox\"],\"url\":\"https://nitroxblog.rux.gg/author/shalix/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Nitrox 2024 Q&amp;A &#8212; Nitrox Dev Blog",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Nitrox 2024 Q&amp;A &#8212; Nitrox Dev Blog",
+      "og_description": "Hello everyone! A while back we opened up a Q&amp;A channel on our Discord server, there you asked a bunch of questions, and today we are answering them. Keep in mind, that some of the questions have been slightly rewritten to reflect how we understood what was being asked. Here we go! Q = QuestionA [&hellip;]",
+      "og_url": "https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/",
+      "og_site_name": "Nitrox Dev Blog",
+      "article_published_time": "2024-05-17T23:47:04+00:00",
+      "article_modified_time": "2024-05-18T11:01:27+00:00",
+      "og_image": [
+        {
+          "width": 1920,
+          "height": 1080,
+          "url": "https://nitroxblog.rux.gg/wp-content/uploads/2024/05/Big-Aquarium.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "author": "Shalix",
+      "twitter_card": "summary_large_image",
+      "twitter_creator": "@https://twitter.com/ModNitrox",
+      "twitter_site": "@ModNitrox",
+      "twitter_misc": {
+        "Written by": "Shalix",
+        "Est. reading time": "9 minutes"
+      },
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/#article",
+            "isPartOf": {
+              "@id": "https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/"
+            },
+            "author": {
+              "name": "Shalix",
+              "@id": "https://nitroxblog.rux.gg/#/schema/person/2e3e11e3d239815721b127e9a3854f64"
+            },
+            "headline": "Nitrox 2024 Q&amp;A",
+            "datePublished": "2024-05-17T23:47:04+00:00",
+            "dateModified": "2024-05-18T11:01:27+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/"
+            },
+            "wordCount": 1826,
+            "commentCount": 16,
+            "publisher": {
+              "@id": "https://nitroxblog.rux.gg/#organization"
+            },
+            "image": {
+              "@id": "https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/#primaryimage"
+            },
+            "thumbnailUrl": "https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/Big-Aquarium.jpg?fit=1920%2C1080&ssl=1",
+            "keywords": [
+              "Development",
+              "Nitrox",
+              "Q&amp;A"
+            ],
+            "articleSection": [
+              "Blog",
+              "Development"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/",
+            "url": "https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/",
+            "name": "Nitrox 2024 Q&amp;A &#8212; Nitrox Dev Blog",
+            "isPartOf": {
+              "@id": "https://nitroxblog.rux.gg/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/#primaryimage"
+            },
+            "image": {
+              "@id": "https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/#primaryimage"
+            },
+            "thumbnailUrl": "https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/Big-Aquarium.jpg?fit=1920%2C1080&ssl=1",
+            "datePublished": "2024-05-17T23:47:04+00:00",
+            "dateModified": "2024-05-18T11:01:27+00:00",
+            "breadcrumb": {
+              "@id": "https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/#primaryimage",
+            "url": "https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/Big-Aquarium.jpg?fit=1920%2C1080&ssl=1",
+            "contentUrl": "https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/Big-Aquarium.jpg?fit=1920%2C1080&ssl=1",
+            "width": 1920,
+            "height": 1080,
+            "caption": "Shady looking"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://nitroxblog.rux.gg/2024/05/18/nitrox-2024-qa/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://nitroxblog.rux.gg/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Nitrox 2024 Q&amp;A"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://nitroxblog.rux.gg/#website",
+            "url": "https://nitroxblog.rux.gg/",
+            "name": "Nitrox Dev Blog",
+            "description": "Updates from Nitrox Dev Team",
+            "publisher": {
+              "@id": "https://nitroxblog.rux.gg/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://nitroxblog.rux.gg/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://nitroxblog.rux.gg/#organization",
+            "name": "Subnautica Nitrox",
+            "url": "https://nitroxblog.rux.gg/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://nitroxblog.rux.gg/#/schema/logo/image/",
+              "url": "https://i1.wp.com/nitroxblog.rux.gg/wp-content/uploads/2020/04/icon.png?fit=800%2C800&ssl=1",
+              "contentUrl": "https://i1.wp.com/nitroxblog.rux.gg/wp-content/uploads/2020/04/icon.png?fit=800%2C800&ssl=1",
+              "width": 800,
+              "height": 800,
+              "caption": "Subnautica Nitrox"
+            },
+            "image": {
+              "@id": "https://nitroxblog.rux.gg/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://x.com/ModNitrox"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://nitroxblog.rux.gg/#/schema/person/2e3e11e3d239815721b127e9a3854f64",
+            "name": "Shalix",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://nitroxblog.rux.gg/#/schema/person/image/",
+              "url": "https://nitroxblog.rux.gg/wp-content/uploads/2025/07/cropped-Shalix-icon-600x6000-1-e1751376789197-96x96.png",
+              "contentUrl": "https://nitroxblog.rux.gg/wp-content/uploads/2025/07/cropped-Shalix-icon-600x6000-1-e1751376789197-96x96.png",
+              "caption": "Shalix"
+            },
+            "description": "Community Manager of the Nitrox Project",
+            "sameAs": [
+              "https://nitrox.rux.gg/",
+              "https://x.com/https://twitter.com/ModNitrox"
+            ],
+            "url": "https://nitroxblog.rux.gg/author/shalix/"
+          }
+        ]
+      }
+    },
+    "jetpack_featured_media_url": "https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/05/Big-Aquarium.jpg?fit=1920%2C1080&ssl=1",
+    "jetpack_sharing_enabled": true,
+    "_links": {
+      "self": [
+        {
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/posts/510",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/comments?post=510"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 14,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/posts/510/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 535,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/posts/510/revisions/535"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/media/522"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/media?parent=510"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/categories?post=510"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/tags?post=510"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+   {
+    "id": 480,
+    "date": "2024-02-18T01:44:38",
+    "date_gmt": "2024-02-18T00:44:38",
+    "guid": {
+      "rendered": "https://nitroxblog.rux.gg/?p=480"
+    },
+    "modified": "2024-02-18T01:44:39",
+    "modified_gmt": "2024-02-18T00:44:39",
+    "slug": "dev-blog-7-priorities-and-you",
+    "status": "publish",
+    "type": "post",
+    "link": "https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/",
+    "title": {
+      "rendered": "Dev Blog #7: Priorities and you"
+    },
+    "content": {
+      "rendered": "\n<h2 class=\"wp-block-heading\">Bugs! Yes, those.</h2>\n\n\n\n<p>Hello everyone! Hope you all have been doing well, as for us, we have been busy syncing and fixing things for Nitrox. &#8220;Exciting&#8221; stuff like entity spawning, refactoring of metadata, entity leftovers, making Nitrox not crash when using the Microsoft store, etc. There is still a lot for us to work on. However, one of the topics for today is data &amp; you, let us get to it.</p>\n\n\n\n<h2 class=\"wp-block-heading\">The #Help-Channel &amp; you</h2>\n\n\n\n<p>The #Help-Channel is an active place for us on Discord, we monitor it for people needing help and of course, try to keep you all safe from scammers and other less savoury people out there. What we do however see, are the questions being asked. Recently we did an internal poll with staff (Peepers) and some specific community members to see what you ask the most.</p>\n\n\n\n<figure class=\"wp-block-table\"><table><tbody><tr><td>Scale of importance 1 being the most important, 5 being the least important</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>Total score:</td></tr><tr><td>Leviathans (and creatures) not synced</td><td>3</td><td>0</td><td>1</td><td>1</td><td>2</td><td>22</td></tr><tr><td>Base utilities (reactors, water filters etc)</td><td>0</td><td>2</td><td>0</td><td>3</td><td>1</td><td>15</td></tr><tr><td>Save files management (world corruption)</td><td>0</td><td>1</td><td>3</td><td>0</td><td>0</td><td>13</td></tr><tr><td>Bases broken</td><td>1</td><td>2</td><td>0</td><td>0</td><td>0</td><td>13</td></tr><tr><td>Aurora radiation not persisting</td><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td><td>10</td></tr><tr><td>Cyclops bugged</td><td>0</td><td>0</td><td>1</td><td>2</td><td>0</td><td>7</td></tr><tr><td>Loading blocked (76%)</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td></tr><tr><td>Item duplication</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td></tr><tr><td>Vehicles exploding</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>4</td></tr><tr><td>Map pings not persisted</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>3</td></tr><tr><td>Scanning resources bugged</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>3</td></tr><tr><td>Portal animations</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td></tr><tr><td>Base hull not syncing</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td></tr><tr><td>Total</td><td>7</td><td>7</td><td>7</td><td>6</td><td>6</td><td>102</td></tr></tbody></table><figcaption class=\"wp-element-caption\">A table depicting the results of an internal poll where moderators answered what bugs were most asked about in the Help Channel on our Discord server.</figcaption></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img data-recalc-dims=\"1\" loading=\"lazy\" decoding=\"async\" width=\"580\" height=\"189\" src=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-7.jpg?resize=580%2C189&#038;ssl=1\" alt=\"A screenshot of a Reaper Leviathan about to attack the Cyclops Submarine with two different views, one per player\" class=\"wp-image-491\" srcset=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-7.jpg?resize=1160%2C377&amp;ssl=1 1160w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-7.jpg?resize=800%2C260&amp;ssl=1 800w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-7.jpg?resize=1536%2C499&amp;ssl=1 1536w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-7.jpg?resize=2048%2C665&amp;ssl=1 2048w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-7.jpg?resize=1200%2C390&amp;ssl=1 1200w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-7.jpg?resize=1980%2C643&amp;ssl=1 1980w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-7.jpg?w=1740&amp;ssl=1 1740w\" sizes=\"auto, (max-width: 580px) 100vw, 580px\" /><figcaption class=\"wp-element-caption\">Now there are two of them! Or.. just one?</figcaption></figure>\n\n\n\n<h2 class=\"wp-block-heading\">Leviathan (+creatures)</h2>\n\n\n\n<p>As you can see, not shockingly Leviathan (and other creatures) sync seems to be the most important thing asked about in the Help Channel, and we agree that it is one of the most important features to get done for the mod to feel complete regarding content parity. We have been experimenting with the Reaper, Sea Treader and Sea Dragon Leviathan.  The Leviathans that spawn &#8220;outside&#8221; of the map, when you go beyond the borders of the map do not sync yet. But it will be worked on at a later date. This is still very experimental, but this part of the creature sync will be coming in the next update.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img data-recalc-dims=\"1\" loading=\"lazy\" decoding=\"async\" width=\"580\" height=\"327\" src=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/2023-09-30_00013.jpg?resize=580%2C327&#038;ssl=1\" alt=\"A screenshot of a multi-level Aquarium in Subnautica, full of the fish Peeper\" class=\"wp-image-492\" srcset=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/2023-09-30_00013.jpg?resize=1160%2C653&amp;ssl=1 1160w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/2023-09-30_00013.jpg?resize=800%2C450&amp;ssl=1 800w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/2023-09-30_00013.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/2023-09-30_00013.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/2023-09-30_00013.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/2023-09-30_00013.jpg?resize=1980%2C1114&amp;ssl=1 1980w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/2023-09-30_00013.jpg?w=1740&amp;ssl=1 1740w\" sizes=\"auto, (max-width: 580px) 100vw, 580px\" /><figcaption class=\"wp-element-caption\">They got their eye on you!</figcaption></figure>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Base Utilities (reactors, water filtering, etc)</strong></h2>\n\n\n\n<p>When it comes to the Base Utilities, we have not had any specific focus on it for this update, we had too many areas to work on as just about everything broke. But that does not mean bases have been ignored. The update to the game essentially meant we had to rework the base system entirely from the ground up. What that means is that the functionality of the utilities is not synced. So the water filtration machine might have individual timers for the water depending on who is interacting with it. One thing to note is that the Alien Containment and Aquariums do not handle creature reproduction, so any new creatures born in the aquarium will need to be picked up and put back into it, a bit wonky but good enough for now.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img data-recalc-dims=\"1\" loading=\"lazy\" decoding=\"async\" width=\"580\" height=\"187\" src=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-8.jpg?resize=580%2C187&#038;ssl=1\" alt=\"The player(s) repairing a tear in the wall\" class=\"wp-image-495\" srcset=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-8.jpg?resize=1160%2C373&amp;ssl=1 1160w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-8.jpg?resize=800%2C258&amp;ssl=1 800w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-8.jpg?resize=1536%2C495&amp;ssl=1 1536w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-8.jpg?resize=2048%2C659&amp;ssl=1 2048w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-8.jpg?resize=1200%2C386&amp;ssl=1 1200w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-8.jpg?resize=1980%2C637&amp;ssl=1 1980w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-8.jpg?w=1740&amp;ssl=1 1740w\" sizes=\"auto, (max-width: 580px) 100vw, 580px\" /><figcaption class=\"wp-element-caption\">Seems good to me!</figcaption></figure>\n\n\n\n<h2 class=\"wp-block-heading\"><strong>Save files and world management</strong></h2>\n\n\n\n<p>Saving is not optimal from a user perspective. It is something that we want to improve on, but it is something that we have had to put further down the list of priorities. We have been entirely focused on getting the mod to work on the final version of Subnautica. We want to create a system where it is easier to swap between saves for different playthroughs as well as being able to start a new map more easily than &#8220;Delete the world folder&#8221;. Work on this will be done when we have extra time for it, but as of right now. We have different things we need to prioritize.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Q&amp;A: Got questions? </h2>\n\n\n\n<p>So we wanted to do something a bit different for the next Dev Blog. We are sure that you all have questions. There might be something hyper-specific about the mod like why the Crashfish seems a bit too comfy in their nests, maybe some general about how our Discord server works, or something less Nitrox/Subnautica and maybe a question about our team? Like why does Werewolfs profile picture always vibrate or why Clément always post baguettes in chat? We will never know if nobody asks. We will either post a link where you can submit questions or create a form of some sort on Discord, so make sure to be on the lookout if you have questions that you want answered.</p>\n\n\n\n<p>Don&#8217;t forget that we are on <a href=\"https://bsky.app/profile/nitroxmod.bsky.social\">BlueSky</a>! So if you want to stay up to date there on when we post blogs, releases and other announcements make sure to follow us at <a href=\"https://bsky.app/profile/nitroxmod.bsky.social\">https://bsky.app/profile/nitroxmod.bsky.social</a></p>\n\n\n\n<p>&#8211; The Nitrox Team</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Bugs! Yes, those. Hello everyone! Hope you all have been doing well, as for us, we have been busy syncing and fixing things for Nitrox. &#8220;Exciting&#8221; stuff like entity spawning, refactoring of metadata, entity leftovers, making Nitrox not crash when using the Microsoft store, etc. There is still a lot for us to work on. [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 489,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_jetpack_memberships_contains_paid_content": false,
+      "footnotes": ""
+    },
+    "categories": [
+      8
+    ],
+    "tags": [],
+    "class_list": [
+      "post-480",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-blog"
+    ],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.9 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Dev Blog #7: Priorities and you &#8212; Nitrox Dev Blog</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Dev Blog #7: Priorities and you &#8212; Nitrox Dev Blog\" />\n<meta property=\"og:description\" content=\"Bugs! Yes, those. Hello everyone! Hope you all have been doing well, as for us, we have been busy syncing and fixing things for Nitrox. &#8220;Exciting&#8221; stuff like entity spawning, refactoring of metadata, entity leftovers, making Nitrox not crash when using the Microsoft store, etc. There is still a lot for us to work on. [&hellip;]\" />\n<meta property=\"og:url\" content=\"https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/\" />\n<meta property=\"og:site_name\" content=\"Nitrox Dev Blog\" />\n<meta property=\"article:published_time\" content=\"2024-02-18T00:44:38+00:00\" />\n<meta property=\"article:modified_time\" content=\"2024-02-18T00:44:39+00:00\" />\n<meta property=\"og:image\" content=\"https://nitroxblog.rux.gg/wp-content/uploads/2024/02/image-10.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1282\" />\n\t<meta property=\"og:image:height\" content=\"832\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"Shalix\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@https://twitter.com/ModNitrox\" />\n<meta name=\"twitter:site\" content=\"@ModNitrox\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"Shalix\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"5 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/#article\",\"isPartOf\":{\"@id\":\"https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/\"},\"author\":{\"name\":\"Shalix\",\"@id\":\"https://nitroxblog.rux.gg/#/schema/person/2e3e11e3d239815721b127e9a3854f64\"},\"headline\":\"Dev Blog #7: Priorities and you\",\"datePublished\":\"2024-02-18T00:44:38+00:00\",\"dateModified\":\"2024-02-18T00:44:39+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/\"},\"wordCount\":789,\"commentCount\":21,\"publisher\":{\"@id\":\"https://nitroxblog.rux.gg/#organization\"},\"image\":{\"@id\":\"https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/#primaryimage\"},\"thumbnailUrl\":\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-10.jpg?fit=1282%2C832&ssl=1\",\"articleSection\":[\"Blog\"],\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"CommentAction\",\"name\":\"Comment\",\"target\":[\"https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/#respond\"]}]},{\"@type\":\"WebPage\",\"@id\":\"https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/\",\"url\":\"https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/\",\"name\":\"Dev Blog #7: Priorities and you &#8212; Nitrox Dev Blog\",\"isPartOf\":{\"@id\":\"https://nitroxblog.rux.gg/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/#primaryimage\"},\"image\":{\"@id\":\"https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/#primaryimage\"},\"thumbnailUrl\":\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-10.jpg?fit=1282%2C832&ssl=1\",\"datePublished\":\"2024-02-18T00:44:38+00:00\",\"dateModified\":\"2024-02-18T00:44:39+00:00\",\"breadcrumb\":{\"@id\":\"https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/#primaryimage\",\"url\":\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-10.jpg?fit=1282%2C832&ssl=1\",\"contentUrl\":\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-10.jpg?fit=1282%2C832&ssl=1\",\"width\":1282,\"height\":832,\"caption\":\"A picture with the Subnautica Loading Screen shown as a rectangle in the Sky\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://nitroxblog.rux.gg/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Dev Blog #7: Priorities and you\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://nitroxblog.rux.gg/#website\",\"url\":\"https://nitroxblog.rux.gg/\",\"name\":\"Nitrox Dev Blog\",\"description\":\"Updates from Nitrox Dev Team\",\"publisher\":{\"@id\":\"https://nitroxblog.rux.gg/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://nitroxblog.rux.gg/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://nitroxblog.rux.gg/#organization\",\"name\":\"Subnautica Nitrox\",\"url\":\"https://nitroxblog.rux.gg/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://nitroxblog.rux.gg/#/schema/logo/image/\",\"url\":\"https://i1.wp.com/nitroxblog.rux.gg/wp-content/uploads/2020/04/icon.png?fit=800%2C800&ssl=1\",\"contentUrl\":\"https://i1.wp.com/nitroxblog.rux.gg/wp-content/uploads/2020/04/icon.png?fit=800%2C800&ssl=1\",\"width\":800,\"height\":800,\"caption\":\"Subnautica Nitrox\"},\"image\":{\"@id\":\"https://nitroxblog.rux.gg/#/schema/logo/image/\"},\"sameAs\":[\"https://x.com/ModNitrox\"]},{\"@type\":\"Person\",\"@id\":\"https://nitroxblog.rux.gg/#/schema/person/2e3e11e3d239815721b127e9a3854f64\",\"name\":\"Shalix\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://nitroxblog.rux.gg/#/schema/person/image/\",\"url\":\"https://nitroxblog.rux.gg/wp-content/uploads/2025/07/cropped-Shalix-icon-600x6000-1-e1751376789197-96x96.png\",\"contentUrl\":\"https://nitroxblog.rux.gg/wp-content/uploads/2025/07/cropped-Shalix-icon-600x6000-1-e1751376789197-96x96.png\",\"caption\":\"Shalix\"},\"description\":\"Community Manager of the Nitrox Project\",\"sameAs\":[\"https://nitrox.rux.gg/\",\"https://x.com/https://twitter.com/ModNitrox\"],\"url\":\"https://nitroxblog.rux.gg/author/shalix/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Dev Blog #7: Priorities and you &#8212; Nitrox Dev Blog",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Dev Blog #7: Priorities and you &#8212; Nitrox Dev Blog",
+      "og_description": "Bugs! Yes, those. Hello everyone! Hope you all have been doing well, as for us, we have been busy syncing and fixing things for Nitrox. &#8220;Exciting&#8221; stuff like entity spawning, refactoring of metadata, entity leftovers, making Nitrox not crash when using the Microsoft store, etc. There is still a lot for us to work on. [&hellip;]",
+      "og_url": "https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/",
+      "og_site_name": "Nitrox Dev Blog",
+      "article_published_time": "2024-02-18T00:44:38+00:00",
+      "article_modified_time": "2024-02-18T00:44:39+00:00",
+      "og_image": [
+        {
+          "width": 1282,
+          "height": 832,
+          "url": "https://nitroxblog.rux.gg/wp-content/uploads/2024/02/image-10.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "author": "Shalix",
+      "twitter_card": "summary_large_image",
+      "twitter_creator": "@https://twitter.com/ModNitrox",
+      "twitter_site": "@ModNitrox",
+      "twitter_misc": {
+        "Written by": "Shalix",
+        "Est. reading time": "5 minutes"
+      },
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/#article",
+            "isPartOf": {
+              "@id": "https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/"
+            },
+            "author": {
+              "name": "Shalix",
+              "@id": "https://nitroxblog.rux.gg/#/schema/person/2e3e11e3d239815721b127e9a3854f64"
+            },
+            "headline": "Dev Blog #7: Priorities and you",
+            "datePublished": "2024-02-18T00:44:38+00:00",
+            "dateModified": "2024-02-18T00:44:39+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/"
+            },
+            "wordCount": 789,
+            "commentCount": 21,
+            "publisher": {
+              "@id": "https://nitroxblog.rux.gg/#organization"
+            },
+            "image": {
+              "@id": "https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/#primaryimage"
+            },
+            "thumbnailUrl": "https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-10.jpg?fit=1282%2C832&ssl=1",
+            "articleSection": [
+              "Blog"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/",
+            "url": "https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/",
+            "name": "Dev Blog #7: Priorities and you &#8212; Nitrox Dev Blog",
+            "isPartOf": {
+              "@id": "https://nitroxblog.rux.gg/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/#primaryimage"
+            },
+            "image": {
+              "@id": "https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/#primaryimage"
+            },
+            "thumbnailUrl": "https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-10.jpg?fit=1282%2C832&ssl=1",
+            "datePublished": "2024-02-18T00:44:38+00:00",
+            "dateModified": "2024-02-18T00:44:39+00:00",
+            "breadcrumb": {
+              "@id": "https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/#primaryimage",
+            "url": "https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-10.jpg?fit=1282%2C832&ssl=1",
+            "contentUrl": "https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-10.jpg?fit=1282%2C832&ssl=1",
+            "width": 1282,
+            "height": 832,
+            "caption": "A picture with the Subnautica Loading Screen shown as a rectangle in the Sky"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://nitroxblog.rux.gg/2024/02/18/dev-blog-7-priorities-and-you/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://nitroxblog.rux.gg/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Dev Blog #7: Priorities and you"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://nitroxblog.rux.gg/#website",
+            "url": "https://nitroxblog.rux.gg/",
+            "name": "Nitrox Dev Blog",
+            "description": "Updates from Nitrox Dev Team",
+            "publisher": {
+              "@id": "https://nitroxblog.rux.gg/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://nitroxblog.rux.gg/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://nitroxblog.rux.gg/#organization",
+            "name": "Subnautica Nitrox",
+            "url": "https://nitroxblog.rux.gg/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://nitroxblog.rux.gg/#/schema/logo/image/",
+              "url": "https://i1.wp.com/nitroxblog.rux.gg/wp-content/uploads/2020/04/icon.png?fit=800%2C800&ssl=1",
+              "contentUrl": "https://i1.wp.com/nitroxblog.rux.gg/wp-content/uploads/2020/04/icon.png?fit=800%2C800&ssl=1",
+              "width": 800,
+              "height": 800,
+              "caption": "Subnautica Nitrox"
+            },
+            "image": {
+              "@id": "https://nitroxblog.rux.gg/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://x.com/ModNitrox"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://nitroxblog.rux.gg/#/schema/person/2e3e11e3d239815721b127e9a3854f64",
+            "name": "Shalix",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://nitroxblog.rux.gg/#/schema/person/image/",
+              "url": "https://nitroxblog.rux.gg/wp-content/uploads/2025/07/cropped-Shalix-icon-600x6000-1-e1751376789197-96x96.png",
+              "contentUrl": "https://nitroxblog.rux.gg/wp-content/uploads/2025/07/cropped-Shalix-icon-600x6000-1-e1751376789197-96x96.png",
+              "caption": "Shalix"
+            },
+            "description": "Community Manager of the Nitrox Project",
+            "sameAs": [
+              "https://nitrox.rux.gg/",
+              "https://x.com/https://twitter.com/ModNitrox"
+            ],
+            "url": "https://nitroxblog.rux.gg/author/shalix/"
+          }
+        ]
+      }
+    },
+    "jetpack_featured_media_url": "https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2024/02/image-10.jpg?fit=1282%2C832&ssl=1",
+    "jetpack_sharing_enabled": true,
+    "_links": {
+      "self": [
+        {
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/posts/480",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/comments?post=480"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 16,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/posts/480/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 561,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/posts/480/revisions/561"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/media/489"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/media?parent=480"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/categories?post=480"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/tags?post=480"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+   {
+    "id": 447,
+    "date": "2023-09-20T23:12:56",
+    "date_gmt": "2023-09-20T22:12:56",
+    "guid": {
+      "rendered": "https://nitroxblog.rux.gg/?p=447"
+    },
+    "modified": "2023-09-23T13:15:59",
+    "modified_gmt": "2023-09-23T12:15:59",
+    "slug": "dev-blog-6-code-time-and-patience",
+    "status": "publish",
+    "type": "post",
+    "link": "https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/",
+    "title": {
+      "rendered": "Dev Blog #6: Code, time and patience"
+    },
+    "content": {
+      "rendered": "\n<h2 class=\"wp-block-heading\">A long time coming</h2>\n\n\n\n<p>Hello everyone! Long time no see. You might or might not know, that we have been very (seriously, very busy). The &#8220;Subnautica 2.0&#8221; update had a massive update to the code of the game, breaking Nitrox compatibility completely. Very few parts of the code still worked somewhat, but honestly? Barely anything worked and would just instantly crash Nitrox, meaning we had a lot of work to do. We have had to rewrite practically everything to fix this, and that is what we have been doing.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Back to the future</h2>\n\n\n\n<p>One of the things that have made working on the Nitrox project extra tedious is that UWE (Unknown Worlds Entertainment, developers of Subnautica) have been doing updates sporadically over the 7 or so years the Nitrox project has existed. Every update has broken major things and we have had to redo large portions of code for every single update. This big &#8220;Subnautica 2.0&#8221; update is however the final update to the game. So now we don&#8217;t have to worry about a potential update that will force us to completely rewrite large portions of the Nitrox code again. This should speed things up after we get this next update out, making it easier to fix bugs and sync various things. &#8211; You know, actually work on fixing things instead of just making it compatible to the same degree as the previous update.<br><br>Now, let&#8217;s get to what we have been up to!</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img data-recalc-dims=\"1\" loading=\"lazy\" decoding=\"async\" width=\"580\" height=\"340\" src=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/GravitytrapOptimized.jpg?resize=580%2C340&#038;ssl=1\" alt=\"\" class=\"wp-image-462\" srcset=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/GravitytrapOptimized.jpg?resize=1160%2C680&amp;ssl=1 1160w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/GravitytrapOptimized.jpg?resize=800%2C469&amp;ssl=1 800w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/GravitytrapOptimized.jpg?resize=1200%2C704&amp;ssl=1 1200w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/GravitytrapOptimized.jpg?w=1282&amp;ssl=1 1282w\" sizes=\"auto, (max-width: 580px) 100vw, 580px\" /></figure>\n\n\n\n<h2 class=\"wp-block-heading\">The past, the present and the future</h2>\n\n\n\n<p>Going into this new update we decided to do something big. Go back in time, roughly 7 years, and overhaul the base code of Nitrox to make it more future-proof. A backlog of 7 years of documentation needed to be improved, so we have been working on that for Nitrox.</p>\n\n\n\n<p>The main culprit however was and always have been the Subnautica code itself. There is a complete lack of documentation on how the Subnautica code works. Meaning we for most parts have to take educated guesses as to what code does what. Having to guess what is deprecated code or what code is still in use is an extremely slow process as every tiny change must be tested manually. This is what is making the update take so long to do.</p>\n\n\n\n<h2 class=\"wp-block-heading\">So many lines of code</h2>\n\n\n\n<p>What we decided then was to do a rewrite, how big of a rewrite? Here are some numbers (as of this writing). On our master branch, we have 1330 files for Nitrox, with 60,2000 lines of code. The difference Between 1.7.0.0 and master (open-pr’s included) we have changed 1150 files, with 27,600 lines of code added and 25,100 deletions. This means that 87% of the files have been touched and a whole 65% of the code for Nitrox has been either completely rewritten or adjusted to make it compatible with the new code, that is a massive amount of work to have had to test manually and make sure works again. </p>\n\n\n\n<p>Now the big question is, what do these lines of code do exactly? Well, one of the major things we have been working on is squeezing as much performance out of it as possible. Making sure we use less bandwidth where possible while still improving the amount of data sent and making it more reliable.</p>\n\n\n\n<p>One of the things we worked on to improve our bandwidth usage was the packet size. In the current version of Nitrox, the packet sizes are always 1kb big. Sure does not sound like a lot in the modern day of gigabit internet, but it does add up rather quickly. So we went through the code and optimized it, by how much do you ask? About 4000% improvement, the packets should now be in the ballpark of 15-25bytes when you get your hands on the new update.</p>\n\n\n\n<h2 class=\"wp-block-heading\">A new beginning</h2>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe loading=\"lazy\" title=\"New Lifepod improvement!\" width=\"580\" height=\"326\" src=\"https://www.youtube.com/embed/yyIc065UuOc?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n</div><figcaption class=\"wp-element-caption\">A video showcasing the intro cinematic where the player(s) are now escaping the Aurora in the lifepod with two seats, before the crash and knock the player(s) out</figcaption></figure>\n\n\n\n<p>Besides optimizing the code we have been working on quality-of-life improvements is one of them. You see, in the lifepods, there happens to only be one seat for whatever reason. Obviously, it is a design flaw by the Alterra Corporation. So we added another seat to them!</p>\n\n\n\n<p>As you also might have noticed, is that you can also see the other player in your lifepod! There are now 2 seats per lifepod, meaning if you join the server at the same time you should be able to see another player. Our end goal with this is that when more players join, they spawn into different lifepods either alone or together. However, this is something that will be worked on at a later date. For now, the world will hopefully feel more alive and you are all finding out that you are not all alone.</p>\n\n\n\n<h2 class=\"wp-block-heading\">A stricter diet</h2>\n\n\n\n<figure class=\"wp-block-image size-large is-style-default\"><img data-recalc-dims=\"1\" loading=\"lazy\" decoding=\"async\" width=\"580\" height=\"327\" src=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/5optimized.jpg?resize=580%2C327&#038;ssl=1\" alt=\"A picture of a Snakecrab (being the correct size) inside of it's mushroom house\" class=\"wp-image-461\" srcset=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/5optimized.jpg?resize=1160%2C653&amp;ssl=1 1160w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/5optimized.jpg?resize=800%2C450&amp;ssl=1 800w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/5optimized.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/5optimized.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/5optimized.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/5optimized.jpg?w=1740&amp;ssl=1 1740w\" sizes=\"auto, (max-width: 580px) 100vw, 580px\" /></figure>\n\n\n\n<p>As some of you <em>might</em> have noticed, the Crabsnakes seem a bit overfed, so we have given them a strict diet of no more than 1x Cyclops submarine per week. This will hopefully make sure that they are able to fit inside their mushroom houses again.</p>\n\n\n\n<p>Some of the other things we have been improving on are syncing objects like the Gravity trap. The gravity trap should now be able to grab small objects like the fish and keep them there. If you log out, and back in again it should be there with all of the fish that it had trapped into its orbit.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img data-recalc-dims=\"1\" loading=\"lazy\" decoding=\"async\" width=\"580\" height=\"340\" src=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/PostersOptimized.jpg?resize=580%2C340&#038;ssl=1\" alt=\"\" class=\"wp-image-463\" srcset=\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/PostersOptimized.jpg?resize=1160%2C680&amp;ssl=1 1160w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/PostersOptimized.jpg?resize=800%2C469&amp;ssl=1 800w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/PostersOptimized.jpg?resize=1200%2C704&amp;ssl=1 1200w, https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/PostersOptimized.jpg?w=1282&amp;ssl=1 1282w\" sizes=\"auto, (max-width: 580px) 100vw, 580px\" /></figure>\n\n\n\n<p>If you liked having the posters around in your base, well now is your time to shine as we have worked on the code for them. They should now no longer fall through the floor but stay on the walls (obviously, just gave you better sticky tape!).</p>\n\n\n\n<h2 class=\"wp-block-heading\">What is left?</h2>\n\n\n\n<p>There are some major things holding back the update, they are dealbreakers at this point.</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Movement is currently in a worse state than in the currently live version of the mod &#8211; For obvious reasons, we can not release until that has been fixed</li>\n\n\n\n<li>Finishing rework of the base building code, and then running extensive testing on it</li>\n\n\n\n<li>Fine-tuning the new Entity spawning system </li>\n\n\n\n<li>Vehicle Bay and Air pipes &#8211; Things that can be dropped or deployed into water</li>\n\n\n\n<li>Reefbacks &#8211; Spawning in &#8220;lumps&#8221;</li>\n\n\n\n<li>Crash fish &#8211; Stuck in their &#8220;homes&#8221;</li>\n</ul>\n\n\n\n<p>These are, of course, some more things left for us to do. But these are the ones that come to mind first.</p>\n\n\n\n<p>What we do not know, is how long is left before we can release the update in between work, social life and all the other things that happen. We will let you know as fast as possible when we have a more concrete time or at the very least an idea of when it will be ready.</p>\n\n\n\n<p>A small thing to note, we are now on <a href=\"https://bsky.app/profile/nitroxmod.bsky.social\">Bluesky</a>! If you happen to be there feel free to say hello! https://bsky.app/profile/nitroxmod.bsky.social</p>\n\n\n\n<p>Thank you for your patience!</p>\n\n\n\n<p>&#8211; The Nitrox Team</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>A long time coming Hello everyone! Long time no see. You might or might not know, that we have been very (seriously, very busy). The &#8220;Subnautica 2.0&#8221; update had a massive update to the code of the game, breaking Nitrox compatibility completely. Very few parts of the code still worked somewhat, but honestly? Barely anything [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 466,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_jetpack_memberships_contains_paid_content": false,
+      "footnotes": ""
+    },
+    "categories": [
+      8,
+      13
+    ],
+    "tags": [
+      51,
+      24
+    ],
+    "class_list": [
+      "post-447",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-blog",
+      "category-development",
+      "tag-devblog",
+      "tag-development"
+    ],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v25.9 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Dev Blog #6: Code, time and patience &#8212; Nitrox Dev Blog</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Dev Blog #6: Code, time and patience &#8212; Nitrox Dev Blog\" />\n<meta property=\"og:description\" content=\"A long time coming Hello everyone! Long time no see. You might or might not know, that we have been very (seriously, very busy). The &#8220;Subnautica 2.0&#8221; update had a massive update to the code of the game, breaking Nitrox compatibility completely. Very few parts of the code still worked somewhat, but honestly? Barely anything [&hellip;]\" />\n<meta property=\"og:url\" content=\"https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/\" />\n<meta property=\"og:site_name\" content=\"Nitrox Dev Blog\" />\n<meta property=\"article:published_time\" content=\"2023-09-20T22:12:56+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-23T12:15:59+00:00\" />\n<meta property=\"og:image\" content=\"https://nitroxblog.rux.gg/wp-content/uploads/2023/09/9optimized.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1920\" />\n\t<meta property=\"og:image:height\" content=\"1080\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"Shalix\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@https://twitter.com/ModNitrox\" />\n<meta name=\"twitter:site\" content=\"@ModNitrox\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"Shalix\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"6 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/#article\",\"isPartOf\":{\"@id\":\"https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/\"},\"author\":{\"name\":\"Shalix\",\"@id\":\"https://nitroxblog.rux.gg/#/schema/person/2e3e11e3d239815721b127e9a3854f64\"},\"headline\":\"Dev Blog #6: Code, time and patience\",\"datePublished\":\"2023-09-20T22:12:56+00:00\",\"dateModified\":\"2023-09-23T12:15:59+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/\"},\"wordCount\":1182,\"commentCount\":54,\"publisher\":{\"@id\":\"https://nitroxblog.rux.gg/#organization\"},\"image\":{\"@id\":\"https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/#primaryimage\"},\"thumbnailUrl\":\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/9optimized.jpg?fit=1920%2C1080&ssl=1\",\"keywords\":[\"DevBlog\",\"Development\"],\"articleSection\":[\"Blog\",\"Development\"],\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"CommentAction\",\"name\":\"Comment\",\"target\":[\"https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/#respond\"]}]},{\"@type\":\"WebPage\",\"@id\":\"https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/\",\"url\":\"https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/\",\"name\":\"Dev Blog #6: Code, time and patience &#8212; Nitrox Dev Blog\",\"isPartOf\":{\"@id\":\"https://nitroxblog.rux.gg/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/#primaryimage\"},\"image\":{\"@id\":\"https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/#primaryimage\"},\"thumbnailUrl\":\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/9optimized.jpg?fit=1920%2C1080&ssl=1\",\"datePublished\":\"2023-09-20T22:12:56+00:00\",\"dateModified\":\"2023-09-23T12:15:59+00:00\",\"breadcrumb\":{\"@id\":\"https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/#primaryimage\",\"url\":\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/9optimized.jpg?fit=1920%2C1080&ssl=1\",\"contentUrl\":\"https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/9optimized.jpg?fit=1920%2C1080&ssl=1\",\"width\":1920,\"height\":1080,\"caption\":\"A very buggy picture of a player character with orange color being way too big and the head hitting the ceiling of the Cyclops submarine\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://nitroxblog.rux.gg/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Dev Blog #6: Code, time and patience\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://nitroxblog.rux.gg/#website\",\"url\":\"https://nitroxblog.rux.gg/\",\"name\":\"Nitrox Dev Blog\",\"description\":\"Updates from Nitrox Dev Team\",\"publisher\":{\"@id\":\"https://nitroxblog.rux.gg/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://nitroxblog.rux.gg/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://nitroxblog.rux.gg/#organization\",\"name\":\"Subnautica Nitrox\",\"url\":\"https://nitroxblog.rux.gg/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://nitroxblog.rux.gg/#/schema/logo/image/\",\"url\":\"https://i1.wp.com/nitroxblog.rux.gg/wp-content/uploads/2020/04/icon.png?fit=800%2C800&ssl=1\",\"contentUrl\":\"https://i1.wp.com/nitroxblog.rux.gg/wp-content/uploads/2020/04/icon.png?fit=800%2C800&ssl=1\",\"width\":800,\"height\":800,\"caption\":\"Subnautica Nitrox\"},\"image\":{\"@id\":\"https://nitroxblog.rux.gg/#/schema/logo/image/\"},\"sameAs\":[\"https://x.com/ModNitrox\"]},{\"@type\":\"Person\",\"@id\":\"https://nitroxblog.rux.gg/#/schema/person/2e3e11e3d239815721b127e9a3854f64\",\"name\":\"Shalix\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://nitroxblog.rux.gg/#/schema/person/image/\",\"url\":\"https://nitroxblog.rux.gg/wp-content/uploads/2025/07/cropped-Shalix-icon-600x6000-1-e1751376789197-96x96.png\",\"contentUrl\":\"https://nitroxblog.rux.gg/wp-content/uploads/2025/07/cropped-Shalix-icon-600x6000-1-e1751376789197-96x96.png\",\"caption\":\"Shalix\"},\"description\":\"Community Manager of the Nitrox Project\",\"sameAs\":[\"https://nitrox.rux.gg/\",\"https://x.com/https://twitter.com/ModNitrox\"],\"url\":\"https://nitroxblog.rux.gg/author/shalix/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Dev Blog #6: Code, time and patience &#8212; Nitrox Dev Blog",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "Dev Blog #6: Code, time and patience &#8212; Nitrox Dev Blog",
+      "og_description": "A long time coming Hello everyone! Long time no see. You might or might not know, that we have been very (seriously, very busy). The &#8220;Subnautica 2.0&#8221; update had a massive update to the code of the game, breaking Nitrox compatibility completely. Very few parts of the code still worked somewhat, but honestly? Barely anything [&hellip;]",
+      "og_url": "https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/",
+      "og_site_name": "Nitrox Dev Blog",
+      "article_published_time": "2023-09-20T22:12:56+00:00",
+      "article_modified_time": "2023-09-23T12:15:59+00:00",
+      "og_image": [
+        {
+          "width": 1920,
+          "height": 1080,
+          "url": "https://nitroxblog.rux.gg/wp-content/uploads/2023/09/9optimized.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "author": "Shalix",
+      "twitter_card": "summary_large_image",
+      "twitter_creator": "@https://twitter.com/ModNitrox",
+      "twitter_site": "@ModNitrox",
+      "twitter_misc": {
+        "Written by": "Shalix",
+        "Est. reading time": "6 minutes"
+      },
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/#article",
+            "isPartOf": {
+              "@id": "https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/"
+            },
+            "author": {
+              "name": "Shalix",
+              "@id": "https://nitroxblog.rux.gg/#/schema/person/2e3e11e3d239815721b127e9a3854f64"
+            },
+            "headline": "Dev Blog #6: Code, time and patience",
+            "datePublished": "2023-09-20T22:12:56+00:00",
+            "dateModified": "2023-09-23T12:15:59+00:00",
+            "mainEntityOfPage": {
+              "@id": "https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/"
+            },
+            "wordCount": 1182,
+            "commentCount": 54,
+            "publisher": {
+              "@id": "https://nitroxblog.rux.gg/#organization"
+            },
+            "image": {
+              "@id": "https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/#primaryimage"
+            },
+            "thumbnailUrl": "https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/9optimized.jpg?fit=1920%2C1080&ssl=1",
+            "keywords": [
+              "DevBlog",
+              "Development"
+            ],
+            "articleSection": [
+              "Blog",
+              "Development"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/#respond"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/",
+            "url": "https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/",
+            "name": "Dev Blog #6: Code, time and patience &#8212; Nitrox Dev Blog",
+            "isPartOf": {
+              "@id": "https://nitroxblog.rux.gg/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/#primaryimage"
+            },
+            "image": {
+              "@id": "https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/#primaryimage"
+            },
+            "thumbnailUrl": "https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/9optimized.jpg?fit=1920%2C1080&ssl=1",
+            "datePublished": "2023-09-20T22:12:56+00:00",
+            "dateModified": "2023-09-23T12:15:59+00:00",
+            "breadcrumb": {
+              "@id": "https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/#primaryimage",
+            "url": "https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/9optimized.jpg?fit=1920%2C1080&ssl=1",
+            "contentUrl": "https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/9optimized.jpg?fit=1920%2C1080&ssl=1",
+            "width": 1920,
+            "height": 1080,
+            "caption": "A very buggy picture of a player character with orange color being way too big and the head hitting the ceiling of the Cyclops submarine"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://nitroxblog.rux.gg/2023/09/20/dev-blog-6-code-time-and-patience/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://nitroxblog.rux.gg/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Dev Blog #6: Code, time and patience"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://nitroxblog.rux.gg/#website",
+            "url": "https://nitroxblog.rux.gg/",
+            "name": "Nitrox Dev Blog",
+            "description": "Updates from Nitrox Dev Team",
+            "publisher": {
+              "@id": "https://nitroxblog.rux.gg/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://nitroxblog.rux.gg/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://nitroxblog.rux.gg/#organization",
+            "name": "Subnautica Nitrox",
+            "url": "https://nitroxblog.rux.gg/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://nitroxblog.rux.gg/#/schema/logo/image/",
+              "url": "https://i1.wp.com/nitroxblog.rux.gg/wp-content/uploads/2020/04/icon.png?fit=800%2C800&ssl=1",
+              "contentUrl": "https://i1.wp.com/nitroxblog.rux.gg/wp-content/uploads/2020/04/icon.png?fit=800%2C800&ssl=1",
+              "width": 800,
+              "height": 800,
+              "caption": "Subnautica Nitrox"
+            },
+            "image": {
+              "@id": "https://nitroxblog.rux.gg/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://x.com/ModNitrox"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://nitroxblog.rux.gg/#/schema/person/2e3e11e3d239815721b127e9a3854f64",
+            "name": "Shalix",
+            "image": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://nitroxblog.rux.gg/#/schema/person/image/",
+              "url": "https://nitroxblog.rux.gg/wp-content/uploads/2025/07/cropped-Shalix-icon-600x6000-1-e1751376789197-96x96.png",
+              "contentUrl": "https://nitroxblog.rux.gg/wp-content/uploads/2025/07/cropped-Shalix-icon-600x6000-1-e1751376789197-96x96.png",
+              "caption": "Shalix"
+            },
+            "description": "Community Manager of the Nitrox Project",
+            "sameAs": [
+              "https://nitrox.rux.gg/",
+              "https://x.com/https://twitter.com/ModNitrox"
+            ],
+            "url": "https://nitroxblog.rux.gg/author/shalix/"
+          }
+        ]
+      }
+    },
+    "jetpack_featured_media_url": "https://i0.wp.com/nitroxblog.rux.gg/wp-content/uploads/2023/09/9optimized.jpg?fit=1920%2C1080&ssl=1",
+    "jetpack_sharing_enabled": true,
+    "_links": {
+      "self": [
+        {
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/posts/447",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/comments?post=447"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 15,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/posts/447/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 472,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/posts/447/revisions/472"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/media/466"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/media?parent=447"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/categories?post=447"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://nitroxblog.rux.gg/wp-json/wp/v2/tags?post=447"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
    {
        "id":18011,
        "date":"2023-08-24T11:00:00",
@@ -307,11 +1967,11 @@
           "rendered":"Subnautica Mod V1.8.0.1 Update"
        },
        "content":{
-          "rendered":"\n<p>Hola a todos!<\/p>\n\n\n\n<p>La ultiuma version del mod de Papela (Nitrox 1.8.0.1) ya ha salido. A que esperas para descargartelo!<\/p>\n",
+          "rendered":"\n<p>Hola a todos!<\/p>\n\n\n\n<p>La ultima version del mod de Papela (Nitrox 1.8.0.1) ya ha salido. A que esperas para descargartelo!<\/p>\n",
           "protected":false
        },
        "excerpt":{
-          "rendered":"\n<p>Hola a todos!<\/p>\n\n\n\n<p>La ultiuma version del mod de Papela (Nitrox 1.8.0.1) ya ha salido. A que esperas para descargartelo!<\/p>\n",
+          "rendered":"\n<p>Hola a todos!<\/p>\n\n\n\n<p>La ultima version del mod de Papela (Nitrox 1.8.0.1) ya ha salido. A que esperas para descargartelo!<\/p>\n",
           "protected":false
        },
        "author":2,
@@ -330,7 +1990,7 @@
        "tags":[
           
        ],
-       "yoast_head":"<p>Hola a todos!<\/p>\n\n\n\n<p>La ultiuma version del mod de Papela (Nitrox 1.8.0.1) ya ha salido. A que esperas para descargartelo!<\/p>\n",
+       "yoast_head":"<p>Hola a todos!<\/p>\n\n\n\n<p>La ultima version del mod de Papela (Nitrox 1.8.0.1) ya ha salido. A que esperas para descargartelo!<\/p>\n",
        "yoast_head_json":{
           "title":"Subnautica Mod V1.8.0.1",
           "robots":{
@@ -344,7 +2004,7 @@
           "og_locale":"es_ES",
           "og_type":"article",
           "og_title":"Subnautica Mod V1.8.0.1",
-          "og_description":"<p>Hola a todos!<\/p>\n\n\n\n<p>La ultiuma version del mod de Papela (Nitrox 1.8.0.1) ya ha salido. A que esperas para descargartelo!<\/p>\n",
+          "og_description":"<p>Hola a todos!<\/p>\n\n\n\n<p>La ultima version del mod de Papela (Nitrox 1.8.0.1) ya ha salido. A que esperas para descargartelo!<\/p>\n",
           "og_url":"https://github.com/Papela/Nitrox-Cracked-Mod/releases/tag/V1.8.0.1",
           "og_site_name":"Nitrox Dev Blog",
           "article_published_time":"2022-12-11T18:40:38+00:00",
