@@ -1,7 +1,19 @@
 [
   {
+    "version": "1.8.0.1",
+    "released": "2025-11-01T17:00:00Z",
+    "permalink": "https://github.com/Papela/Nitrox-Cracked-Mod/releases/tag/V1.8.0.1-Official",
+    "patchnotes": [
+      "Updated to commit 1.8.0.1 (from the official repository)",
+      "Added Self Contained Builds (untested)",
+      "Tested compatibility with versions of Subnautica: Jun.-2025 (82304)",
+      "-----------------------------------------",
+      "Unlocked Mod by: Papela"
+    ]
+  },
+  {
     "version": "1.8.0.0",
-    "released": "2025-10-11T15:35:00Z",
+    "released": "2025-10-11T14:35:00Z",
     "permalink": "https://github.com/Papela/Nitrox-Cracked-Mod/releases/tag/V1.8.0.0-Official",
     "patchnotes": [
       "Updated to commit 1.8.0.0 (from the official repository)",

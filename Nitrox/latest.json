@@ -1,29 +1,29 @@
 {
-  "version": "1.8.0.0",
-  "filesize": "44.5",
+  "version": "1.8.0.1",
+  "filesize": "44.4",
   "platforms": {
     "windows": {
-      "filesize": "44.5",
+      "filesize": "44.4",
       "architectures": {
         "x64": {
-          "url": "https://github.com/Papela/Nitrox-Cracked-Mod/releases/download/1.8.0.0/NitroxUnlocked_V1.8.0.0-windows-x64.zip",
-          "md5": "ac1d542bbc65299118bfc8715f571c43",
-          "filesize": "44.5"
+          "url": "https://github.com/Papela/Nitrox-Cracked-Mod/releases/download/V1.8.0.1-Official/NitroxUnlocked_V1.8.1.0-windows-x64.zip",
+          "md5": "44e7586c7992726a90ae3eb7da0df4e0",
+          "filesize": "44.4"
         }
       }
     },
     "linux": {
-      "filesize": "48.1",
+      "filesize": "48.0",
       "architectures": {
         "x64": {
-          "url": "https://github.com/Papela/Nitrox-Cracked-Mod/releases/download/1.8.0.0/NitroxUnlocked_V1.8.0.0-linux-x64.zip",
+          "url": "https://github.com/Papela/Nitrox-Cracked-Mod/releases/download/V1.8.0.0-Official/NitroxUnlocked_V1.8.0.0-linux-x64.zip",
           "md5": "807dead53abba2c7ef1e7020425779f9",
-          "filesize": "48.1"
+          "filesize": "48.0"
         },
         "arm64": {
-          "url": "https://github.com/Papela/Nitrox-Cracked-Mod/releases/download/1.8.0.0/NitroxUnlocked_V1.8.0.0-linux-arm64.zip",
+          "url": "https://github.com/Papela/Nitrox-Cracked-Mod/releases/download/V1.8.0.0-Official/NitroxUnlocked_V1.8.0.0-linux-arm64.zip",
           "md5": "7c2f3962d1b08116560053d19446e06a",
-          "filesize": "46.6"
+          "filesize": "46.5"
         }
       }
     }
